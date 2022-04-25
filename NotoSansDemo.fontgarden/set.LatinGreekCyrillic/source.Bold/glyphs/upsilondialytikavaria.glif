@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondialytikavaria" format="2">
+	<unicode hex="1FE2"/>
+	<advance width="644"/>
+	<outline>
+		<component base="upsilon"/>
+		<component base="dialytikavaria" xOffset="-180"/>
+	</outline>
+	<anchor name="bottom" x="314" y="0"/>
+	<anchor name="top" x="308" y="553"/>
+</glyph>

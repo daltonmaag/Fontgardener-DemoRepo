@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaoxia.sc.ss06" format="2">
+	<advance width="637"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="oxia.sc" xOffset="225" yOffset="35"/>
+	</outline>
+	<anchor name="bottom" x="270" y="0"/>
+	<anchor name="top" x="343" y="571"/>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etapsilioxiaprosgegrammeni.ad" format="2">
+	<advance width="1656"/>
+	<outline>
+		<component base="Eta" xOffset="455"/>
+		<component base="psilioxia.case" xOffset="-18"/>
+		<component base="prosgegrammeni" xOffset="1221"/>
+	</outline>
+	<anchor name="bottom" x="838" y="0"/>
+	<anchor name="center" x="838" y="357"/>
+	<anchor name="topleft" x="455" y="714"/>
+	<anchor name="topright" x="1201" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Eta</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

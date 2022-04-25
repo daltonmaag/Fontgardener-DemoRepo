@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphamacron.sc.ss06" format="2">
+	<advance width="622"/>
+	<outline>
+		<component base="alpha.sc"/>
+		<component base="macroncomb.sc" xOffset="42"/>
+	</outline>
+	<anchor name="bottom" x="248" y="0"/>
+	<anchor name="top" x="386" y="697"/>
+	<anchor name="topright" x="589" y="571"/>
+</glyph>

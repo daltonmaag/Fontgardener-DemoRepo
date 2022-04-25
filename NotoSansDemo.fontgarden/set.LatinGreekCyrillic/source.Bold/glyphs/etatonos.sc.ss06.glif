@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etatonos.sc.ss06" format="2">
+	<advance width="652"/>
+	<outline>
+		<component base="eta.sc"/>
+		<component base="tonos.sc" xOffset="239" yOffset="38"/>
+	</outline>
+	<anchor name="bottom" x="326" y="0"/>
+	<anchor name="center" x="326" y="296"/>
+	<anchor name="top" x="326" y="591"/>
+	<anchor name="topright" x="632" y="591"/>
+</glyph>

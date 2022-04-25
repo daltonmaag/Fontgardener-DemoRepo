@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kdescender" format="2">
+	<unicode hex="2C69"/>
+	<advance width="721"/>
+	<outline>
+		<contour>
+			<point x="699" y="162" type="line"/>
+			<point x="566" y="162" type="line"/>
+			<point x="514" y="30" type="line"/>
+			<point x="514" y="-221" type="line"/>
+			<point x="699" y="-221" type="line"/>
+		</contour>
+		<component base="K"/>
+	</outline>
+	<anchor name="bottom" x="360" y="-221"/>
+	<anchor name="top" x="364" y="714"/>
+	<anchor name="topright" x="667" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>K</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

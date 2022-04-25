@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonvaria" format="2">
+	<unicode hex="1F7A"/>
+	<advance width="622"/>
+	<outline>
+		<component base="upsilon"/>
+		<component base="varia" xOffset="18"/>
+	</outline>
+	<anchor name="bottom" x="261" y="0"/>
+	<anchor name="top" x="352" y="553"/>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphadasiaoxiaprosgegrammeni" format="2">
+	<unicode hex="1F8D"/>
+	<advance width="1008"/>
+	<outline>
+		<component base="Alpha" xOffset="332"/>
+		<component base="dasiaoxia.case" xOffset="-45"/>
+		<component base="ypogegrammeni" xOffset="537"/>
+	</outline>
+	<anchor name="bottom" x="611" y="0"/>
+	<anchor name="topleft" x="512" y="714"/>
+	<anchor name="topright" x="1081" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Alpha</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dasiaoxia.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>ypogegrammeni</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=A</string>
+		</dict>
+	</lib>
+</glyph>

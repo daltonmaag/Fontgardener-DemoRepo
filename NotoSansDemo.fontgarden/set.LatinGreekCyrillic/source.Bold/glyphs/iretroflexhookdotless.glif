@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iretroflexhookdotless" format="2">
+	<advance width="336"/>
+	<outline>
+		<contour>
+			<point x="262" y="552" type="line"/>
+			<point x="73" y="552" type="line"/>
+			<point x="73" y="0" type="line"/>
+			<point x="163" y="0" type="line"/>
+			<point x="163" y="-81" type="line" smooth="yes"/>
+			<point x="163" y="-198"/>
+			<point x="221" y="-251"/>
+			<point x="315" y="-251" type="curve"/>
+			<point x="350" y="-251"/>
+			<point x="386" y="-245"/>
+			<point x="414" y="-237" type="curve"/>
+			<point x="414" y="-110" type="line"/>
+			<point x="397" y="-116"/>
+			<point x="382" y="-119"/>
+			<point x="365" y="-119" type="curve"/>
+			<point x="332" y="-119"/>
+			<point x="316" y="-106"/>
+			<point x="316" y="-65" type="curve"/>
+			<point x="316" y="132" type="line"/>
+			<point x="262" y="132" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="162" y="-251"/>
+	<anchor name="top" x="162" y="553"/>
+</glyph>

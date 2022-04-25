@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhopsili.sc.ss06" format="2">
+	<advance width="491"/>
+	<outline>
+		<component base="rho.sc"/>
+		<component base="psili.sc" xOffset="137" yOffset="36"/>
+	</outline>
+	<anchor name="bottom" x="246" y="0"/>
+	<anchor name="top" x="246" y="572"/>
+	<anchor name="topright" x="471" y="572"/>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etapsilivaria" format="2">
+	<unicode hex="1F22"/>
+	<advance width="665"/>
+	<outline>
+		<component base="eta"/>
+		<component base="psilivaria" xOffset="27"/>
+	</outline>
+	<anchor name="bottom" x="161" y="0"/>
+	<anchor name="top" x="294" y="553"/>
+</glyph>

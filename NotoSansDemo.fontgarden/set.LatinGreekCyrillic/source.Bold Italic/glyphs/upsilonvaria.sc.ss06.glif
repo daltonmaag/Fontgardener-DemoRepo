@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonvaria.sc.ss06" format="2">
+	<advance width="549"/>
+	<outline>
+		<component base="upsilon.sc"/>
+		<component base="varia.sc" xOffset="-6" yOffset="38"/>
+	</outline>
+	<anchor name="bottom" x="212" y="0"/>
+	<anchor name="top" x="328" y="591"/>
+	<anchor name="topright" x="592" y="591"/>
+</glyph>

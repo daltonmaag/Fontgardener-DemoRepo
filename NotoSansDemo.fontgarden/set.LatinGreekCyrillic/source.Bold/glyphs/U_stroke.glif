@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustroke" format="2">
+	<unicode hex="A7B8"/>
+	<advance width="757"/>
+	<outline>
+		<contour>
+			<point x="143" y="-59" type="line"/>
+			<point x="724" y="691" type="line"/>
+			<point x="637" y="756" type="line"/>
+			<point x="53" y="8" type="line"/>
+		</contour>
+		<component base="U"/>
+	</outline>
+	<anchor name="bottom" x="377" y="0"/>
+	<anchor name="top" x="379" y="714"/>
+	<anchor name="topright" x="737" y="714"/>
+</glyph>

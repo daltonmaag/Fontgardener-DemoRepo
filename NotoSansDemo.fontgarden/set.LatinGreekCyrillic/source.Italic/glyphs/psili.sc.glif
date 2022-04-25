@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psili.sc" format="2">
+	<advance width="287"/>
+	<outline>
+		<component base="psili" xOffset="24"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=|comma</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=comma</string>
+		</dict>
+	</lib>
+</glyph>

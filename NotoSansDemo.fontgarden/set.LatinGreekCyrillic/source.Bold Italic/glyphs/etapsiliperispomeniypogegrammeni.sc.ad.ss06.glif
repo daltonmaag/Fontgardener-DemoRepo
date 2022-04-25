@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etapsiliperispomeniypogegrammeni.sc.ad.ss06" format="2">
+	<advance width="1025"/>
+	<outline>
+		<component base="eta.sc"/>
+		<component base="psiliperispomeni.sc" xOffset="-3" yOffset="38"/>
+		<component base="iota.sc" xOffset="629"/>
+	</outline>
+	<anchor name="bottom_1" x="252" y="0"/>
+	<anchor name="bottom_2" x="764" y="0"/>
+	<anchor name="center" x="325" y="300"/>
+	<anchor name="top_1" x="378" y="591"/>
+	<anchor name="top_2" x="890" y="591"/>
+	<anchor name="topright_1" x="672" y="591"/>
+	<anchor name="topright_2" x="1068" y="591"/>
+</glyph>

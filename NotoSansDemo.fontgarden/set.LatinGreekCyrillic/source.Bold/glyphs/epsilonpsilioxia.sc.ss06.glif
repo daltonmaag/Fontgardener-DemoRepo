@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonpsilioxia.sc.ss06" format="2">
+	<advance width="459"/>
+	<outline>
+		<component base="epsilon.sc"/>
+		<component base="psilioxia.sc" xOffset="18" yOffset="38"/>
+	</outline>
+	<anchor name="bottom" x="242" y="0"/>
+	<anchor name="top" x="245" y="591"/>
+	<anchor name="topright" x="439" y="591"/>
+</glyph>

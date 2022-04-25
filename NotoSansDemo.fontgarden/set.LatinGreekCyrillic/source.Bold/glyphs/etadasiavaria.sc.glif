@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etadasiavaria.sc" format="2">
+	<advance width="652"/>
+	<outline>
+		<component base="h.sc"/>
+	</outline>
+	<anchor name="bottom" x="326" y="0"/>
+	<anchor name="center" x="326" y="296"/>
+	<anchor name="top" x="326" y="591"/>
+	<anchor name="topright" x="632" y="591"/>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhodasia" format="2">
+	<unicode hex="1FE5"/>
+	<advance width="553"/>
+	<outline>
+		<component base="rho"/>
+		<component base="dasia" xOffset="118"/>
+	</outline>
+	<anchor name="bottom" x="168" y="-240"/>
+	<anchor name="top" x="324" y="536"/>
+</glyph>

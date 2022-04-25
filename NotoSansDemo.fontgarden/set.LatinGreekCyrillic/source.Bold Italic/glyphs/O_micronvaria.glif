@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicronvaria" format="2">
+	<unicode hex="1FF8"/>
+	<advance width="976"/>
+	<outline>
+		<component base="Omicron" xOffset="239"/>
+		<component base="varia.case" xOffset="-30"/>
+	</outline>
+	<anchor name="bottom" x="565" y="0"/>
+	<anchor name="center" x="650" y="357"/>
+	<anchor name="topleft" x="385" y="714"/>
+	<anchor name="topright" x="1049" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omicron</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>varia.case</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=O</string>
+		</dict>
+	</lib>
+</glyph>

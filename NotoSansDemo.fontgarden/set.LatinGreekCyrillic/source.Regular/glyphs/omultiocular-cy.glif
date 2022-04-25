@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omultiocular-cy" format="2">
+	<unicode hex="A66E"/>
+	<advance width="881"/>
+	<outline>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="519" yOffset="136"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="16" yOffset="136"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="393" yOffset="402"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="267" yOffset="136"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="142" yOffset="402"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="393" yOffset="-131"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="142" yOffset="-131"/>
+	</outline>
+	<anchor name="bottom_1" x="693.048" y="136"/>
+	<anchor name="bottom_2" x="190.048" y="136"/>
+	<anchor name="bottom_3" x="567.048" y="402"/>
+	<anchor name="bottom_4" x="441.048" y="136"/>
+	<anchor name="bottom_5" x="316.048" y="402"/>
+	<anchor name="bottom_6" x="567.048" y="-131"/>
+	<anchor name="bottom_7" x="316.048" y="-131"/>
+	<anchor name="center_1" x="692.604" y="294.50800000000004"/>
+	<anchor name="center_2" x="189.604" y="294.50800000000004"/>
+	<anchor name="center_3" x="566.604" y="560.508"/>
+	<anchor name="center_4" x="440.60400000000004" y="294.50800000000004"/>
+	<anchor name="center_5" x="315.60400000000004" y="560.508"/>
+	<anchor name="center_6" x="566.604" y="27.50800000000001"/>
+	<anchor name="center_7" x="315.60400000000004" y="27.50800000000001"/>
+	<anchor name="top_1" x="692.604" y="453.016"/>
+	<anchor name="top_2" x="189.604" y="453.016"/>
+	<anchor name="top_3" x="566.604" y="719.0160000000001"/>
+	<anchor name="top_4" x="440.60400000000004" y="453.016"/>
+	<anchor name="top_5" x="315.60400000000004" y="719.0160000000001"/>
+	<anchor name="top_6" x="566.604" y="186.01600000000002"/>
+	<anchor name="top_7" x="315.60400000000004" y="186.01600000000002"/>
+	<anchor name="topright_1" x="856.884" y="453.016"/>
+	<anchor name="topright_2" x="353.884" y="453.016"/>
+	<anchor name="topright_3" x="730.884" y="719.0160000000001"/>
+	<anchor name="topright_4" x="604.884" y="453.016"/>
+	<anchor name="topright_5" x="479.884" y="719.0160000000001"/>
+	<anchor name="topright_6" x="730.884" y="186.01600000000002"/>
+	<anchor name="topright_7" x="479.884" y="186.01600000000002"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

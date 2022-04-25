@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadialytikavaria.sc.ss06" format="2">
+	<advance width="281"/>
+	<outline>
+		<component base="iota.sc"/>
+		<component base="dialytikavaria.sc" xOffset="-236" yOffset="35"/>
+	</outline>
+	<anchor name="bottom" x="80" y="0"/>
+	<anchor name="top" x="202" y="571"/>
+	<anchor name="topright" x="322" y="571"/>
+</glyph>

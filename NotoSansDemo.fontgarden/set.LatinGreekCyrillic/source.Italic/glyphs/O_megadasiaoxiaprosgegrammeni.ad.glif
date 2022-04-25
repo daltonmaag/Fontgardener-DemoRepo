@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegadasiaoxiaprosgegrammeni.ad" format="2">
+	<advance width="1329"/>
+	<outline>
+		<component base="Omega" xOffset="322"/>
+		<component base="dasiaoxia.case" xOffset="-55"/>
+		<component base="prosgegrammeni" xOffset="1025"/>
+	</outline>
+	<anchor name="bottom" x="609" y="0"/>
+	<anchor name="topleft" x="436" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omega</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dasiaoxia.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>prosgegrammeni</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

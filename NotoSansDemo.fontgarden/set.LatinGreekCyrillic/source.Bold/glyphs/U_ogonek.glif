@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="2">
+	<unicode hex="0172"/>
+	<advance width="757"/>
+	<outline>
+		<contour>
+			<point x="519" y="-88" type="curve" smooth="yes"/>
+			<point x="519" y="-31"/>
+			<point x="557" y="12"/>
+			<point x="618" y="83" type="curve"/>
+			<point x="509" y="59" type="line"/>
+			<point x="420" y="-10"/>
+			<point x="395" y="-68"/>
+			<point x="395" y="-118" type="curve" smooth="yes"/>
+			<point x="395" y="-197"/>
+			<point x="454" y="-240"/>
+			<point x="530" y="-240" type="curve" smooth="yes"/>
+			<point x="566" y="-240"/>
+			<point x="593" y="-234"/>
+			<point x="615" y="-227" type="curve"/>
+			<point x="615" y="-119" type="line"/>
+			<point x="601" y="-125"/>
+			<point x="574" y="-130"/>
+			<point x="557" y="-130" type="curve" smooth="yes"/>
+			<point x="534" y="-130"/>
+			<point x="519" y="-121"/>
+		</contour>
+		<component base="U"/>
+	</outline>
+	<anchor name="bottom" x="377" y="-240"/>
+	<anchor name="top" x="379" y="714"/>
+	<anchor name="topright" x="737" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>U</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

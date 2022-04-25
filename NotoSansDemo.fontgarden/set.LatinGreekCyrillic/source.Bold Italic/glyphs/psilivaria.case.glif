@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilivaria.case" format="2">
+	<advance width="549"/>
+	<outline>
+		<component base="psilivaria" xOffset="-13" yOffset="-62"/>
+	</outline>
+	<anchor name="_topleft" x="602" y="714"/>
+	<guideline x="573" y="577" angle="78"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=psilivaria</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=psilivaria</string>
+		</dict>
+	</lib>
+</glyph>

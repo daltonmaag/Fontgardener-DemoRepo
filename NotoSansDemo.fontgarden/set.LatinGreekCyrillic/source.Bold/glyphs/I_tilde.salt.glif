@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde.salt" format="2">
+	<advance width="348"/>
+	<outline>
+		<component base="I.salt"/>
+		<component base="tildecomb" xOffset="545" yOffset="161"/>
+	</outline>
+	<anchor name="bottom" x="174" y="0"/>
+	<anchor name="top" x="174" y="930"/>
+	<anchor name="topright" x="328" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

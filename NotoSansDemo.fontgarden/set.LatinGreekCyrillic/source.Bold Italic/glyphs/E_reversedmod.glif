@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversedmod" format="2">
+	<unicode hex="1D32"/>
+	<advance width="365"/>
+	<outline>
+		<component base="Ereversed" xScale="0.65" yScale="0.6" xOffset="53" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="185" y="287"/>
+	<anchor name="top" x="276" y="715"/>
+	<anchor name="topright" x="430.65000000000003" y="715.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Ereversed</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

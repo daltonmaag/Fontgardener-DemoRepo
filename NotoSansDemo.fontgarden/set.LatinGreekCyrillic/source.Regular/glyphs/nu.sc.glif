@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu.sc" format="2">
+	<advance width="623"/>
+	<outline>
+		<component base="n.sc"/>
+	</outline>
+	<anchor name="bottom" x="312" y="0"/>
+	<anchor name="top" x="312" y="572"/>
+	<anchor name="topright" x="603" y="572"/>
+</glyph>

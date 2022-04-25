@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imoddotless" format="2">
+	<advance width="168"/>
+	<outline>
+		<contour>
+			<point x="112" y="609" type="line"/>
+			<point x="55" y="609" type="line"/>
+			<point x="55" y="287" type="line"/>
+			<point x="112" y="287" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="85" y="287"/>
+	<anchor name="top" x="84" y="609"/>
+	<anchor name="topright" x="155" y="609"/>
+</glyph>

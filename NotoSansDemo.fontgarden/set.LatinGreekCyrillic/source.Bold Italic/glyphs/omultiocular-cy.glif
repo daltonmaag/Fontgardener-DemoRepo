@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omultiocular-cy" format="2">
+	<unicode hex="A66E"/>
+	<advance width="857"/>
+	<outline>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="474" yOffset="132"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="15" yOffset="132"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="408" yOffset="389"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="244" yOffset="132"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="178" yOffset="389"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="320" yOffset="-125"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="90" yOffset="-125"/>
+	</outline>
+	<anchor name="bottom_1" x="624.612" y="132"/>
+	<anchor name="bottom_2" x="165.612" y="132"/>
+	<anchor name="bottom_3" x="558.612" y="389"/>
+	<anchor name="bottom_4" x="394.61199999999997" y="132"/>
+	<anchor name="bottom_5" x="328.61199999999997" y="389"/>
+	<anchor name="bottom_6" x="470.61199999999997" y="-125"/>
+	<anchor name="bottom_7" x="240.612" y="-125"/>
+	<anchor name="center_1" x="663.8820000000001" y="296.93399999999997"/>
+	<anchor name="center_2" x="204.882" y="296.93399999999997"/>
+	<anchor name="center_3" x="597.8820000000001" y="553.934"/>
+	<anchor name="center_4" x="433.882" y="296.93399999999997"/>
+	<anchor name="center_5" x="367.882" y="553.934"/>
+	<anchor name="center_6" x="509.882" y="39.934"/>
+	<anchor name="center_7" x="279.882" y="39.934"/>
+	<anchor name="top_1" x="684.21" y="461.868"/>
+	<anchor name="top_2" x="225.21" y="461.868"/>
+	<anchor name="top_3" x="618.21" y="718.8679999999999"/>
+	<anchor name="top_4" x="454.21000000000004" y="461.868"/>
+	<anchor name="top_5" x="388.21000000000004" y="718.8679999999999"/>
+	<anchor name="top_6" x="530.21" y="204.868"/>
+	<anchor name="top_7" x="300.21000000000004" y="204.868"/>
+	<anchor name="topright_1" x="848.22" y="461.868"/>
+	<anchor name="topright_2" x="389.22" y="461.868"/>
+	<anchor name="topright_3" x="782.22" y="718.8679999999999"/>
+	<anchor name="topright_4" x="618.22" y="461.868"/>
+	<anchor name="topright_5" x="552.22" y="718.8679999999999"/>
+	<anchor name="topright_6" x="694.22" y="204.868"/>
+	<anchor name="topright_7" x="464.22" y="204.868"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

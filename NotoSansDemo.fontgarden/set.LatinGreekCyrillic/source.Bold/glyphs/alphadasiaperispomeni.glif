@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphadasiaperispomeni" format="2">
+	<unicode hex="1F07"/>
+	<advance width="677"/>
+	<outline>
+		<component base="alpha"/>
+		<component base="dasiaperispomeni" xOffset="71"/>
+	</outline>
+	<anchor name="bottom" x="316" y="0"/>
+	<anchor name="top" x="316" y="553"/>
+</glyph>

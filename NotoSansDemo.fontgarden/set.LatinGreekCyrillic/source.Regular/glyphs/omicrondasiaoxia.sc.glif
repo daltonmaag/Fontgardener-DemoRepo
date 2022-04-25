@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicrondasiaoxia.sc" format="2">
+	<advance width="632"/>
+	<outline>
+		<component base="omicron.sc"/>
+	</outline>
+	<anchor name="bottom" x="316" y="0"/>
+	<anchor name="center" x="316" y="286"/>
+	<anchor name="top" x="316" y="572"/>
+	<anchor name="topright" x="612" y="572"/>
+	<guideline x="1015" y="672" angle="0"/>
+</glyph>
