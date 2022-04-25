@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphapsiliperispomeni.sc" format="2">
+	<advance width="594"/>
+	<outline>
+		<component base="alpha.sc"/>
+	</outline>
+	<anchor name="bottom" x="297" y="0"/>
+	<anchor name="top" x="297" y="582"/>
+	<anchor name="topright" x="574" y="582"/>
+</glyph>

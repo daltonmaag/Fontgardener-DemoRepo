@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetall-cy" format="2">
+	<unicode hex="1C84"/>
+	<advance width="386"/>
+	<outline>
+		<contour>
+			<point x="155" y="0" type="line"/>
+			<point x="183" y="0" type="line"/>
+			<point x="411" y="714" type="line"/>
+			<point x="113" y="714" type="line"/>
+			<point x="108" y="689" type="line"/>
+			<point x="377" y="689" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="137" y="0"/>
+	<anchor name="top" x="289" y="714"/>
+</glyph>

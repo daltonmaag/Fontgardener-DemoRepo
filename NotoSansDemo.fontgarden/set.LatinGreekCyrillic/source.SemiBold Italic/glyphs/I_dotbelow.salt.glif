@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotbelow.salt" format="2">
+	<advance width="320"/>
+	<outline>
+		<component base="I.salt"/>
+		<component base="dotbelowcomb" xOffset="448"/>
+	</outline>
+	<anchor name="bottom" x="79" y="-210"/>
+	<anchor name="top" x="251" y="714"/>
+	<anchor name="topright" x="408" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

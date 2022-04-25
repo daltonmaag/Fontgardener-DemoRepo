@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tinferior" format="2">
+	<unicode hex="209C"/>
+	<advance width="201"/>
+	<outline>
+		<component base="t" xScale="0.65" yScale="0.6" xOffset="-52" yOffset="-96"/>
+	</outline>
+	<anchor name="bottom" x="31.85000000000001" y="-96"/>
+	<anchor name="center" x="35.75" y="62.400000000000006"/>
+	<anchor name="top" x="103.35" y="299.4"/>
+	<anchor name="topright" x="183.95000000000002" y="402"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>t</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaprosgegrammeni" format="2">
+	<unicode hex="1FBC"/>
+	<advance width="628"/>
+	<outline>
+		<component base="Alpha"/>
+		<component base="ypogegrammeni" xOffset="180"/>
+	</outline>
+	<anchor name="bottom" x="256" y="0"/>
+	<anchor name="topleft" x="180" y="714"/>
+	<anchor name="topright" x="702" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Alpha</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>ypogegrammeni</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=A</string>
+		</dict>
+	</lib>
+</glyph>

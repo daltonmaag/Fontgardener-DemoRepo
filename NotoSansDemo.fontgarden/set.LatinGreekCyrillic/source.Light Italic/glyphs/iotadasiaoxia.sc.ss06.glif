@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadasiaoxia.sc.ss06" format="2">
+	<advance width="200"/>
+	<outline>
+		<component base="iota.sc"/>
+		<component base="dasiaoxia.sc" xOffset="-84" yOffset="31"/>
+	</outline>
+	<anchor name="bottom" x="41" y="0"/>
+	<anchor name="top" x="159" y="559"/>
+	<anchor name="topright" x="239" y="559"/>
+</glyph>

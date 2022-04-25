@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegadasiavariaypogegrammeni.sc.ad.ss06" format="2">
+	<advance width="822"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="dasiavaria.sc" xOffset="60" yOffset="31"/>
+		<component base="iota.sc" xOffset="622"/>
+	</outline>
+	<anchor name="bottom_1" x="266" y="0"/>
+	<anchor name="bottom_2" x="663" y="0"/>
+	<anchor name="top_1" x="337" y="559"/>
+	<anchor name="top_2" x="781" y="559"/>
+	<anchor name="topright" x="861" y="559"/>
+</glyph>

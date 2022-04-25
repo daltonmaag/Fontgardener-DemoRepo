@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oinferior" format="2">
+	<unicode hex="2092"/>
+	<advance width="367"/>
+	<outline>
+		<component base="o" xScale="0.65" yScale="0.6" xOffset="-52" yOffset="-96"/>
+	</outline>
+	<anchor name="bottom" x="95.55000000000001" y="-96"/>
+	<anchor name="center" x="131.95000000000002" y="62.400000000000006"/>
+	<anchor name="top" x="168.35" y="220.8"/>
+	<anchor name="topright" x="338.65000000000003" y="220.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>o</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

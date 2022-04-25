@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegapsiliperispomeniprosgegrammeni" format="2">
+	<unicode hex="1FAE"/>
+	<advance width="1109"/>
+	<outline>
+		<component base="Omega" xOffset="377"/>
+		<component base="psiliperispomeni.case" xOffset="-30"/>
+		<component base="ypogegrammeni" xOffset="587"/>
+	</outline>
+	<anchor name="bottom" x="683" y="0"/>
+	<anchor name="topleft" x="501" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omega</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>psiliperispomeni.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>ypogegrammeni</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=Omega</string>
+		</dict>
+	</lib>
+</glyph>

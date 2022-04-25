@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etavariaypogegrammeni" format="2">
+	<unicode hex="1FC2"/>
+	<advance width="605"/>
+	<outline>
+		<component base="eta"/>
+		<component base="varia" xOffset="49"/>
+		<component base="ypogegrammeni" xOffset="7"/>
+	</outline>
+	<anchor name="bottom" x="78" y="0"/>
+	<anchor name="top" x="367" y="546"/>
+</glyph>

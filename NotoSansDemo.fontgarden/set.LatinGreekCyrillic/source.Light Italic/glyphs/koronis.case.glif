@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koronis.case" format="2">
+	<advance width="225"/>
+	<outline>
+		<component base="koronis"/>
+	</outline>
+</glyph>

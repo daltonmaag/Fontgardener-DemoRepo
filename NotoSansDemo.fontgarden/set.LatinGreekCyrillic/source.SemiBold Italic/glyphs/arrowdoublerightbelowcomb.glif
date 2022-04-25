@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdoublerightbelowcomb" format="2">
+	<unicode hex="0362"/>
+	<outline>
+		<contour>
+			<point x="148" y="-229" type="line"/>
+			<point x="286" y="-127" type="line"/>
+			<point x="148" y="-25" type="line"/>
+			<point x="148" y="-93" type="line"/>
+			<point x="-483" y="-93" type="line"/>
+			<point x="-498" y="-161" type="line"/>
+			<point x="148" y="-161" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="-379" y="0"/>
+	<anchor name="bottom" x="-104" y="-229"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

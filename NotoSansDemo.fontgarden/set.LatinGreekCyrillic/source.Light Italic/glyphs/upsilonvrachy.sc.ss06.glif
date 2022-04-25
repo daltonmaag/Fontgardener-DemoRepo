@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonvrachy.sc.ss06" format="2">
+	<advance width="366"/>
+	<outline>
+		<component base="upsilon.sc"/>
+		<component base="brevecomb.sc" xOffset="-32" yOffset="31"/>
+	</outline>
+	<anchor name="bottom" x="124" y="0"/>
+	<anchor name="top" x="283" y="751"/>
+	<anchor name="topright" x="405" y="559"/>
+</glyph>

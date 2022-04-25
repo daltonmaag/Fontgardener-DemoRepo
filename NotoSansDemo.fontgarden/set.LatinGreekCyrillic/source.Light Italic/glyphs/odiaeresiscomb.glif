@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odiaeresiscomb" format="2">
+	<unicode hex="1DF3"/>
+	<outline>
+		<component base="odieresis" xScale="0.45" yScale="0.4" xOffset="-28" yOffset="620"/>
+	</outline>
+	<anchor name="_top" x="56" y="528"/>
+	<anchor name="bottom" x="74.15" y="620"/>
+	<anchor name="center" x="99.35000000000001" y="725.6"/>
+	<anchor name="top" x="141.65" y="903.6"/>
+	<anchor name="topright" x="242.45" y="831.2"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>odieresis</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

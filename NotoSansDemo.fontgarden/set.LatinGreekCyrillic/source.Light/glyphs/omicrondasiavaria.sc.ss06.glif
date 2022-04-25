@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicrondasiavaria.sc.ss06" format="2">
+	<advance width="605"/>
+	<outline>
+		<component base="omicron.sc"/>
+		<component base="dasiavaria.sc" xOffset="96" yOffset="31"/>
+	</outline>
+	<anchor name="bottom" x="303" y="0"/>
+	<anchor name="center" x="303" y="280"/>
+	<anchor name="top" x="303" y="559"/>
+	<anchor name="topright" x="585" y="559"/>
+</glyph>

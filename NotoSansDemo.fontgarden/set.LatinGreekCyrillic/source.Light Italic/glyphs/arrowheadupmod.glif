@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowheadupmod" format="2">
+	<unicode hex="02C4"/>
+	<advance width="285"/>
+	<outline>
+		<contour>
+			<point x="106" y="549" type="line"/>
+			<point x="131" y="549" type="line"/>
+			<point x="224" y="738" type="line"/>
+			<point x="317" y="549" type="line"/>
+			<point x="344" y="549" type="line"/>
+			<point x="228" y="778" type="line"/>
+			<point x="219" y="778" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

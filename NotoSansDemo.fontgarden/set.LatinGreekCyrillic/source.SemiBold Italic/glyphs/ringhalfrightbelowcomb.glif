@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfrightbelowcomb" format="2">
+	<unicode hex="0339"/>
+	<outline>
+		<component base="ringhalfright" xOffset="-163" yOffset="-820"/>
+	</outline>
+	<anchor name="_bottom" x="-52" y="0"/>
+	<anchor name="bottom" x="-95" y="-231"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>ringhalfright</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondasiavaria.sc.ss06" format="2">
+	<advance width="417"/>
+	<outline>
+		<component base="upsilon.sc"/>
+		<component base="dasiavaria.sc" xOffset="2" yOffset="31"/>
+	</outline>
+	<anchor name="bottom" x="209" y="0"/>
+	<anchor name="top" x="209" y="559"/>
+	<anchor name="topright" x="397" y="559"/>
+</glyph>

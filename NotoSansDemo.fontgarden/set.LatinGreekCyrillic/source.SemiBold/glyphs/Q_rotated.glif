@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Qrotated" format="2">
+	<unicode hex="213A"/>
+	<advance width="936"/>
+	<outline>
+		<component base="Q" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="766" yOffset="-35"/>
+	</outline>
+	<anchor name="bottom" x="936" y="363"/>
+	<anchor name="top" x="52" y="363"/>
+	<anchor name="topright" x="52" y="741"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Q</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

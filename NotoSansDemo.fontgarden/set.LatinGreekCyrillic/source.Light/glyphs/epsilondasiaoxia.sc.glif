@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilondasiaoxia.sc" format="2">
+	<advance width="441"/>
+	<outline>
+		<component base="e.sc"/>
+	</outline>
+	<anchor name="bottom" x="241" y="0"/>
+	<anchor name="top" x="241" y="559"/>
+	<anchor name="topright" x="421" y="559"/>
+</glyph>

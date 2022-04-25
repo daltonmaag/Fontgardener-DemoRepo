@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fepigraphicreversed" format="2">
+	<unicode hex="A7FB"/>
+	<advance width="530"/>
+	<outline>
+		<contour>
+			<point x="240" y="0" type="line"/>
+			<point x="388" y="0" type="line"/>
+			<point x="540" y="714" type="line"/>
+			<point x="145" y="714" type="line"/>
+			<point x="118" y="589" type="line"/>
+			<point x="365" y="589" type="line"/>
+			<point x="327" y="407" type="line"/>
+			<point x="96" y="407" type="line"/>
+			<point x="69" y="281" type="line"/>
+			<point x="300" y="281" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="206.972" y="0"/>
+	<anchor name="top" x="359" y="714"/>
+	<anchor name="topright" x="540" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

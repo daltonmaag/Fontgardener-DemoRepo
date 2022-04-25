@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaperispomeniypogegrammeni.sc.ad" format="2">
+	<advance width="841"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="iota.sc" xOffset="614"/>
+	</outline>
+	<anchor name="bottom_1" x="307" y="0"/>
+	<anchor name="bottom_2" x="728" y="0"/>
+	<anchor name="top_1" x="307" y="559"/>
+	<anchor name="top_2" x="728" y="559"/>
+	<anchor name="topright" x="821" y="559"/>
+</glyph>

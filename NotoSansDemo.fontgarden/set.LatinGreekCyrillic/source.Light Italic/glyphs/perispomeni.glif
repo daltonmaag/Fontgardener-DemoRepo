@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perispomeni" format="2">
+	<unicode hex="1FC0"/>
+	<advance width="394"/>
+	<outline>
+		<component base="tilde"/>
+	</outline>
+	<anchor name="_top" x="262" y="528"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

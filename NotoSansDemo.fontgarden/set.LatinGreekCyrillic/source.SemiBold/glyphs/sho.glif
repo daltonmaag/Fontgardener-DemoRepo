@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sho" format="2">
+	<unicode hex="03F8"/>
+	<advance width="633"/>
+	<outline>
+		<component base="thorn"/>
+	</outline>
+	<anchor name="bottom" x="317" y="-240"/>
+	<anchor name="top" x="317" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

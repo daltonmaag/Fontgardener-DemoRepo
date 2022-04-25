@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotapsili.sc" format="2">
+	<advance width="227"/>
+	<outline>
+		<component base="i.sc"/>
+	</outline>
+	<anchor name="bottom" x="114" y="0"/>
+	<anchor name="top" x="114" y="559"/>
+	<anchor name="topright" x="207" y="559"/>
+</glyph>

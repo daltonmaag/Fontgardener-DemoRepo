@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaperispomeni.sc.ss06" format="2">
+	<advance width="682"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="perispomeni.sc" xOffset="98" yOffset="37"/>
+	</outline>
+	<anchor name="bottom" x="276" y="0"/>
+	<anchor name="top" x="379" y="582"/>
+</glyph>

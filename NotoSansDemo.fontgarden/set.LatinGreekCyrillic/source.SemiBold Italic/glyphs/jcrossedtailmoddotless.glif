@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrossedtailmoddotless" format="2">
+	<advance width="193"/>
+	<outline>
+		<component base="jcrossedtaildotless" xScale="0.65" yScale="0.6" xOffset="61" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="87" y="143"/>
+	<anchor name="top" x="195.55" y="614.5999999999999"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>jcrossedtaildotless</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

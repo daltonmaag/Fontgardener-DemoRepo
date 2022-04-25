@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonoxia" format="2">
+	<unicode hex="1FEB"/>
+	<advance width="829"/>
+	<outline>
+		<component base="Upsilon" xOffset="265"/>
+		<component base="oxia.case" xOffset="-30"/>
+	</outline>
+	<anchor name="bottom" x="489" y="0"/>
+	<anchor name="topleft" x="318" y="714"/>
+	<anchor name="topright" x="903" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Upsilon</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>oxia.case</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=Y</string>
+		</dict>
+	</lib>
+</glyph>

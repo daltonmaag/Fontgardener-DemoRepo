@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicronpsilivaria.sc.ss06" format="2">
+	<advance width="575"/>
+	<outline>
+		<component base="omicron.sc"/>
+		<component base="psilivaria.sc" xOffset="66" yOffset="31"/>
+	</outline>
+	<anchor name="bottom" x="229" y="0"/>
+	<anchor name="center" x="288" y="280"/>
+	<anchor name="top" x="347" y="559"/>
+	<anchor name="topright" x="614" y="559"/>
+</glyph>

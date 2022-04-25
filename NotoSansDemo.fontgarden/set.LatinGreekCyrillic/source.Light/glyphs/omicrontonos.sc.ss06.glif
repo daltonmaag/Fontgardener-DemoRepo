@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicrontonos.sc.ss06" format="2">
+	<advance width="605"/>
+	<outline>
+		<component base="omicron.sc"/>
+		<component base="tonos.sc" xOffset="254" yOffset="31"/>
+	</outline>
+	<anchor name="bottom" x="303" y="0"/>
+	<anchor name="center" x="303" y="280"/>
+	<anchor name="top" x="303" y="559"/>
+	<anchor name="topright" x="585" y="559"/>
+	<guideline x="947" y="672" angle="0"/>
+</glyph>

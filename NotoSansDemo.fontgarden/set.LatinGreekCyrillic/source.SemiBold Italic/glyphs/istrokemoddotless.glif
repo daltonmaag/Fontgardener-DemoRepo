@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="istrokemoddotless" format="2">
+	<advance width="193"/>
+	<outline>
+		<contour>
+			<point x="65" y="287" type="line"/>
+			<point x="160" y="287" type="line"/>
+			<point x="192" y="425" type="line"/>
+			<point x="241" y="425" type="line"/>
+			<point x="254" y="483" type="line"/>
+			<point x="205" y="483" type="line"/>
+			<point x="236" y="615" type="line"/>
+			<point x="140" y="615" type="line"/>
+			<point x="110" y="483" type="line"/>
+			<point x="61" y="483" type="line"/>
+			<point x="48" y="425" type="line"/>
+			<point x="97" y="425" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="112" y="287"/>
+	<anchor name="top" x="189" y="615"/>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonpsilivaria.sc.ss06" format="2">
+	<advance width="541"/>
+	<outline>
+		<component base="upsilon.sc"/>
+		<component base="psilivaria.sc" xOffset="26" yOffset="36"/>
+	</outline>
+	<anchor name="bottom" x="271" y="0"/>
+	<anchor name="top" x="271" y="582"/>
+	<anchor name="topright" x="521" y="582"/>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlinebelow" format="2">
+	<unicode hex="1E5F"/>
+	<advance width="375"/>
+	<outline>
+		<component base="r"/>
+		<component base="macronbelowcomb" xOffset="103"/>
+	</outline>
+	<anchor name="bottom" x="104" y="-127"/>
+	<anchor name="top" x="188" y="528"/>
+	<anchor name="topright" x="355" y="528"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>r</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

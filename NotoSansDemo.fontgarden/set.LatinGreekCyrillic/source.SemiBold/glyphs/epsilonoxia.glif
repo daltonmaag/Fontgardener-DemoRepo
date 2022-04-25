@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonoxia" format="2">
+	<unicode hex="1F73"/>
+	<advance width="504"/>
+	<outline>
+		<component base="epsilon"/>
+		<component base="oxia" xOffset="184"/>
+	</outline>
+	<anchor name="bottom" x="275" y="0"/>
+	<anchor name="top" x="277" y="546"/>
+</glyph>

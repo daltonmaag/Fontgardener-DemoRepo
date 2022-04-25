@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+	<unicode hex="005B"/>
+	<advance width="331"/>
+	<outline>
+		<contour>
+			<point x="-18" y="-158" type="line"/>
+			<point x="213" y="-158" type="line"/>
+			<point x="235" y="-55" type="line"/>
+			<point x="130" y="-55" type="line"/>
+			<point x="272" y="611" type="line"/>
+			<point x="377" y="611" type="line"/>
+			<point x="399" y="714" type="line"/>
+			<point x="168" y="714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Parenthesis</string>
+		</dict>
+	</lib>
+</glyph>

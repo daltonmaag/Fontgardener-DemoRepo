@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aocomb" format="2">
+	<unicode hex="1DD5"/>
+	<outline>
+		<component base="ao" xScale="0.45" yScale="0.4" xOffset="-105" yOffset="620"/>
+	</outline>
+	<anchor name="_top" x="58" y="546"/>
+	<anchor name="bottom" x="70.05000000000001" y="618.8"/>
+	<anchor name="top" x="124.95000000000002" y="838.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>ao</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

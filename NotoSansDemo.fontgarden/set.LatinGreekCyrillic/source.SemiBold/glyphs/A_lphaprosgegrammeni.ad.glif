@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaprosgegrammeni.ad" format="2">
+	<advance width="1091"/>
+	<outline>
+		<component base="Alpha"/>
+		<component base="prosgegrammeni" xOffset="690"/>
+	</outline>
+	<anchor name="bottom" x="345" y="0"/>
+	<anchor name="topleft" x="114" y="714"/>
+	<anchor name="topright" x="590" y="714"/>
+</glyph>

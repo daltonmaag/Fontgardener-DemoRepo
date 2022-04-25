@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegapsiliypogegrammeni" format="2">
+	<unicode hex="1FA0"/>
+	<advance width="867"/>
+	<outline>
+		<component base="omega"/>
+		<component base="psili" xOffset="337"/>
+		<component base="ypogegrammeni" xOffset="292"/>
+	</outline>
+	<anchor name="bottom" x="434" y="0"/>
+	<anchor name="top" x="434" y="546"/>
+</glyph>

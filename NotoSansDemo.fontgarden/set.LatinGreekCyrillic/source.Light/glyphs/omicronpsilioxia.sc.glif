@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicronpsilioxia.sc" format="2">
+	<advance width="605"/>
+	<outline>
+		<component base="omicron.sc"/>
+	</outline>
+	<anchor name="bottom" x="303" y="0"/>
+	<anchor name="center" x="303" y="280"/>
+	<anchor name="top" x="303" y="559"/>
+	<anchor name="topright" x="585" y="559"/>
+	<guideline x="947" y="672" angle="0"/>
+</glyph>
