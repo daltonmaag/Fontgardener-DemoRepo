@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="utilde.sc" format="2">
+	<advance width="571"/>
+	<outline>
+		<component base="u.sc"/>
+		<component base="tildecomb.sc" xOffset="50"/>
+	</outline>
+	<anchor name="bottom" x="237" y="0"/>
+	<anchor name="top" x="406" y="793"/>
+	<anchor name="topright" x="617" y="582"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>u.sc</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

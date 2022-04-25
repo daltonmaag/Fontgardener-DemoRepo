@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kelvin" format="2">
+	<unicode hex="212A"/>
+	<advance width="585"/>
+	<outline>
+		<component base="K"/>
+	</outline>
+	<anchor name="bottom" x="322" y="0"/>
+	<anchor name="top" x="321" y="714"/>
+	<anchor name="topright" x="567" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

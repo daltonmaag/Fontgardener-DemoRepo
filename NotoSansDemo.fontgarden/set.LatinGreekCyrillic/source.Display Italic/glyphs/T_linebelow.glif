@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tlinebelow" format="2">
+	<unicode hex="1E6E"/>
+	<advance width="478"/>
+	<outline>
+		<component base="T"/>
+		<component base="macronmod" xOffset="-74" yOffset="-753"/>
+	</outline>
+	<anchor name="bottom" x="155" y="-147"/>
+	<anchor name="top" x="338" y="714"/>
+	<anchor name="center" x="267" y="357"/>
+	<anchor name="topright" x="557" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>T</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>macronmod</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>T</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

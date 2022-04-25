@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcaron" format="2">
+	<unicode hex="01E8"/>
+	<advance width="635"/>
+	<outline>
+		<component base="K"/>
+		<component base="caron" xOffset="88" yOffset="168"/>
+	</outline>
+	<anchor name="bottom" x="333" y="0"/>
+	<anchor name="top" x="336" y="934"/>
+	<anchor name="topright" x="617" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

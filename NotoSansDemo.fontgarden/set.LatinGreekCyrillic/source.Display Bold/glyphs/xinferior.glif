@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xinferior" format="2">
+	<unicode hex="2093"/>
+	<advance width="403"/>
+	<outline>
+		<component base="x" xScale="0.65" yScale="0.6" yOffset="-96"/>
+	</outline>
+	<anchor name="bottom" x="201.5" y="-96"/>
+	<anchor name="top" x="200.85" y="235.8"/>
+	<anchor name="topright" x="390.65000000000003" y="235.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

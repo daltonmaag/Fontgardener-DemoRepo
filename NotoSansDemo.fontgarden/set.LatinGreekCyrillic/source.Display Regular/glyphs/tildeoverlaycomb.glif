@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildeoverlaycomb" format="2">
+	<unicode hex="0334"/>
+	<outline>
+		<component base="tilde" xOffset="-214" yOffset="-399"/>
+	</outline>
+	<anchor name="_center" x="0" y="272"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

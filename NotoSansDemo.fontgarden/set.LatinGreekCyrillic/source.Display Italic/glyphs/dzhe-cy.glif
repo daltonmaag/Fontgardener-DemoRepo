@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzhe-cy" format="2">
+	<unicode hex="045F"/>
+	<advance width="551"/>
+	<outline>
+		<contour>
+			<point x="138" y="-240" type="line"/>
+			<point x="225" y="-240" type="line"/>
+			<point x="270" y="-34" type="line"/>
+			<point x="251" y="-34" type="line"/>
+			<point x="178" y="-58" type="line"/>
+		</contour>
+		<component base="u"/>
+	</outline>
+	<anchor name="bottom" x="171" y="-240"/>
+	<anchor name="top" x="332" y="536"/>
+	<anchor name="topright" x="578" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

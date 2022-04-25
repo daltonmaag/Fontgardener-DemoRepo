@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odouble-cy" format="2">
+	<unicode hex="A698"/>
+	<advance width="1156"/>
+	<outline>
+		<component base="O" xScale="0.95" xOffset="5"/>
+		<component base="O" xScale="0.95" xOffset="507"/>
+	</outline>
+	<anchor name="bottom_1" x="277.65" y="0"/>
+	<anchor name="bottom_2" x="779.65" y="0"/>
+	<anchor name="center_1" x="349.84999999999997" y="357"/>
+	<anchor name="center_2" x="851.8499999999999" y="357"/>
+	<anchor name="top_1" x="421.09999999999997" y="714"/>
+	<anchor name="top_2" x="923.0999999999999" y="714"/>
+	<anchor name="topright_1" x="727" y="714"/>
+	<anchor name="topright_2" x="1229" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>O</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>O</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pdotaccent" format="2">
+	<unicode hex="1E57"/>
+	<advance width="551"/>
+	<outline>
+		<component base="p"/>
+		<component base="dotaccent" xOffset="191"/>
+	</outline>
+	<anchor name="bottom" x="19" y="-240"/>
+	<anchor name="top" x="376" y="736"/>
+	<anchor name="topright" x="588" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

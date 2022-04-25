@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotifiedbigyuscomb-cy" format="2">
+	<unicode hex="2DFF"/>
+	<outline>
+		<component base="yusbigiotified-cy" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="59" y="553"/>
+	<anchor name="top" x="120" y="841"/>
+	<anchor name="bottom" x="204.75" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>460</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

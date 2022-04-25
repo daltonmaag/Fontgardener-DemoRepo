@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+	<unicode hex="0309"/>
+	<outline>
+		<component base="hook" xOffset="5"/>
+	</outline>
+	<anchor name="_top" x="-293" y="545"/>
+	<anchor name="top" x="-291" y="830"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

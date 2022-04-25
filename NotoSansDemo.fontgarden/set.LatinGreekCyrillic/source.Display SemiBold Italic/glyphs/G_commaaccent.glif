@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent" format="2">
+	<unicode hex="0122"/>
+	<advance width="657"/>
+	<outline>
+		<component base="G"/>
+		<component base="commaaccentcomb" xOffset="151"/>
+	</outline>
+	<anchor name="bottom" x="272" y="-221"/>
+	<anchor name="top" x="449" y="714"/>
+	<anchor name="topright" x="734" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotavrachy" format="2">
+	<unicode hex="1FD8"/>
+	<advance width="440"/>
+	<outline>
+		<component base="Ibreve"/>
+	</outline>
+	<anchor name="bottom" x="220" y="0"/>
+	<anchor name="top" x="220" y="948"/>
+	<anchor name="topright" x="422" y="714"/>
+</glyph>

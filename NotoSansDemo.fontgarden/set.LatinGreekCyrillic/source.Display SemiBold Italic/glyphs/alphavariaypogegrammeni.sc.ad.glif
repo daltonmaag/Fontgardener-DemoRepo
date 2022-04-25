@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphavariaypogegrammeni.sc.ad" format="2">
+	<advance width="880"/>
+	<outline>
+		<component base="alpha.sc"/>
+		<component base="iota.sc" xOffset="541"/>
+	</outline>
+	<anchor name="bottom_1" x="274" y="0"/>
+	<anchor name="bottom_2" x="651" y="0"/>
+	<anchor name="top_1" x="398" y="582"/>
+	<anchor name="top_2" x="776" y="582"/>
+	<anchor name="topright_1" x="650" y="582"/>
+	<anchor name="topright_2" x="926" y="582"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>alpha.sc</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>iota.sc</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

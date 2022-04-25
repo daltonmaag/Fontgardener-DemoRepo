@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odouble-cy" format="2">
+	<unicode hex="A699"/>
+	<advance width="886"/>
+	<outline>
+		<component base="o"/>
+		<component base="o" xOffset="350"/>
+	</outline>
+	<anchor name="bottom_1" x="211" y="0"/>
+	<anchor name="bottom_2" x="561" y="0"/>
+	<anchor name="center_1" x="268" y="268"/>
+	<anchor name="center_2" x="618" y="268"/>
+	<anchor name="top_1" x="325" y="536"/>
+	<anchor name="top_2" x="675" y="536"/>
+	<anchor name="topright_1" x="573" y="536"/>
+	<anchor name="topright_2" x="923" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>o</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>o</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icomb" format="2">
+	<unicode hex="0365"/>
+	<outline>
+		<component base="i" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="57" y="536"/>
+	<anchor name="bottom" x="31.5" y="0"/>
+	<anchor name="top" x="102.15" y="294.40000000000003"/>
+	<anchor name="topright" x="144.9" y="294.40000000000003"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>112</integer>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kmod" format="2">
+	<unicode hex="1D4F"/>
+	<advance width="280"/>
+	<outline>
+		<component base="k" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="140" y="287"/>
+	<anchor name="top" x="140" y="743"/>
+	<anchor name="topright" x="267.8" y="785"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>k</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

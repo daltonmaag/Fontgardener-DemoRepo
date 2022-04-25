@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilioxia" format="2">
+	<unicode hex="1FCE"/>
+	<advance width="396"/>
+	<outline>
+		<component base="psili"/>
+		<component base="oxia" xOffset="162"/>
+	</outline>
+	<anchor name="_top" x="202" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=psili</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=oxia</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

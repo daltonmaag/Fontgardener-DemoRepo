@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmod" format="2">
+	<unicode hex="02CC"/>
+	<advance width="193"/>
+	<outline>
+		<contour>
+			<point x="153" y="60" type="line"/>
+			<point x="40" y="60" type="line"/>
+			<point x="40" y="-220" type="line"/>
+			<point x="153" y="-220" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="96" y="-270"/>
+	<anchor name="top" x="99" y="60"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>dotaccent</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>dotaccent</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

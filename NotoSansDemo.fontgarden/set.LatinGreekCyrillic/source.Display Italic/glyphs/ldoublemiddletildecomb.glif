@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldoublemiddletildecomb" format="2">
+	<unicode hex="1DEC"/>
+	<outline>
+		<component base="ldoublemiddletilde" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="57" y="536"/>
+	<anchor name="bottom" x="50.4" y="0"/>
+	<anchor name="center" x="76.05" y="107.2"/>
+	<anchor name="top" x="123.3" y="304"/>
+	<anchor name="topright" x="170.1" y="304"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>157</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

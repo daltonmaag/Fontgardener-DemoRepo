@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scedilla" format="2">
+	<unicode hex="015E"/>
+	<advance width="482"/>
+	<outline>
+		<component base="S"/>
+		<component base="cedilla" xOffset="165"/>
+	</outline>
+	<anchor name="bottom" x="125" y="-240"/>
+	<anchor name="top" x="329" y="714"/>
+	<anchor name="topright" x="560" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

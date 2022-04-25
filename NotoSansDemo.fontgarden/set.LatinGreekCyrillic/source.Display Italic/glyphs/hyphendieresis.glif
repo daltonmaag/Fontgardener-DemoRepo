@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphendieresis" format="2">
+	<unicode hex="2E1A"/>
+	<advance width="309"/>
+	<outline>
+		<component base="hyphen"/>
+		<component base="dieresis" xOffset="-168" yOffset="-240"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Dash</string>
+		</dict>
+	</lib>
+</glyph>

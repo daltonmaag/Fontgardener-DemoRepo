@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odouble-cy" format="2">
+	<unicode hex="A698"/>
+	<advance width="1228"/>
+	<outline>
+		<component base="OO"/>
+	</outline>
+	<anchor name="bottom_1" x="374" y="0"/>
+	<anchor name="bottom_2" x="853" y="0"/>
+	<anchor name="center_1" x="374" y="357"/>
+	<anchor name="center_2" x="853" y="357"/>
+	<anchor name="top_1" x="374" y="725"/>
+	<anchor name="top_2" x="853" y="725"/>
+	<anchor name="topright_1" x="730" y="725"/>
+	<anchor name="topright_2" x="1209" y="725"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=OO</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

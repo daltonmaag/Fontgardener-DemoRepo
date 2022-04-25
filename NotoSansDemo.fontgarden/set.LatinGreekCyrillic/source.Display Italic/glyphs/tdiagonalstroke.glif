@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdiagonalstroke" format="2">
+	<unicode hex="2C66"/>
+	<advance width="321"/>
+	<outline>
+		<contour>
+			<point x="-90" y="-208" type="line"/>
+			<point x="-21" y="-208" type="line"/>
+			<point x="465" y="760" type="line"/>
+			<point x="396" y="760" type="line"/>
+		</contour>
+		<component base="t"/>
+	</outline>
+	<anchor name="bottom" x="90" y="-208"/>
+	<anchor name="top" x="237" y="760"/>
+	<anchor name="center" x="126" y="268"/>
+	<anchor name="topright" x="354" y="840"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

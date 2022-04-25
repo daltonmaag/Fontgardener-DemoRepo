@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaprosgegrammeni" format="2">
+	<unicode hex="1FBC"/>
+	<advance width="604"/>
+	<outline>
+		<component base="Alpha"/>
+		<component base="ypogegrammeni" xOffset="190"/>
+	</outline>
+	<anchor name="bottom" x="306" y="0"/>
+	<anchor name="topleft" x="95" y="714"/>
+	<anchor name="topright" x="493" y="714"/>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estroke" format="2">
+	<unicode hex="0246"/>
+	<advance width="564"/>
+	<outline>
+		<contour>
+			<point x="501" y="760" type="line"/>
+			<point x="378" y="760" type="line"/>
+			<point x="165" y="-75" type="line"/>
+			<point x="287" y="-75" type="line"/>
+		</contour>
+		<component base="E"/>
+	</outline>
+	<anchor name="bottom" x="274" y="-75"/>
+	<anchor name="top" x="266" y="760"/>
+	<anchor name="topright" x="492" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

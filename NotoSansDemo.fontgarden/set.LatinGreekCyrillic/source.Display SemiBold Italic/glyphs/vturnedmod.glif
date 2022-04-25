@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vturnedmod" format="2">
+	<unicode hex="1DBA"/>
+	<advance width="320"/>
+	<outline>
+		<component base="vturned" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="163" y="287"/>
+	<anchor name="top" x="233" y="615"/>
+	<anchor name="topright" x="361.40000000000003" y="327.59999999999997"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

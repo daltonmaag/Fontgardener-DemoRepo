@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qdiagonalstroke" format="2">
+	<unicode hex="A759"/>
+	<advance width="751"/>
+	<outline>
+		<contour>
+			<point x="696" y="324" type="curve" smooth="yes"/>
+			<point x="696" y="281"/>
+			<point x="680" y="251"/>
+			<point x="628" y="201" type="curve" smooth="yes"/>
+			<point x="211" y="-207" type="line"/>
+			<point x="249" y="-244" type="line"/>
+			<point x="665" y="165" type="line" smooth="yes"/>
+			<point x="723" y="222"/>
+			<point x="752" y="257"/>
+			<point x="752" y="328" type="curve" smooth="yes"/>
+			<point x="752" y="404"/>
+			<point x="696" y="455"/>
+			<point x="611" y="455" type="curve"/>
+			<point x="611" y="402" type="line"/>
+			<point x="666" y="402"/>
+			<point x="696" y="373"/>
+		</contour>
+		<component base="q"/>
+	</outline>
+	<anchor name="bottom" x="456" y="-240"/>
+	<anchor name="top" x="290" y="536"/>
+	<anchor name="topright" x="524" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>q</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

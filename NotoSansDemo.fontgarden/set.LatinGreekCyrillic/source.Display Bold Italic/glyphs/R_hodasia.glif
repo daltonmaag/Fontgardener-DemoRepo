@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rhodasia" format="2">
+	<unicode hex="1FEC"/>
+	<advance width="595"/>
+	<outline>
+		<component base="Rho"/>
+		<component base="dasia.case" xOffset="-234"/>
+	</outline>
+	<anchor name="bottom" x="242" y="0"/>
+	<anchor name="topleft" x="96" y="714"/>
+	<anchor name="topright" x="672" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Rho</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dasia.case</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=P</string>
+		</dict>
+	</lib>
+</glyph>

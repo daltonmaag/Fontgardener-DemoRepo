@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzereversed-cy" format="2">
+	<unicode hex="A645"/>
+	<advance width="497"/>
+	<outline>
+		<component base="s" xScale="-1" xOffset="497"/>
+	</outline>
+	<anchor name="bottom" x="260" y="0"/>
+	<anchor name="top" x="260" y="553"/>
+	<anchor name="topright" x="9" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

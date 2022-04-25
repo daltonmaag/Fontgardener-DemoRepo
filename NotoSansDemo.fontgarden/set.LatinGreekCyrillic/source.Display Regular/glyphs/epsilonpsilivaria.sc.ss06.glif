@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonpsilivaria.sc.ss06" format="2">
+	<advance width="421"/>
+	<outline>
+		<component base="epsilon.sc"/>
+		<component base="psilivaria.sc" xOffset="16" yOffset="36"/>
+	</outline>
+	<anchor name="bottom" x="231" y="0"/>
+	<anchor name="top" x="227" y="572"/>
+	<anchor name="topright" x="403" y="572"/>
+</glyph>

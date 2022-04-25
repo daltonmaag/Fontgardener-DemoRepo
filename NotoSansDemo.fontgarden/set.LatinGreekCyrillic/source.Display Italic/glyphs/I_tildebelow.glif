@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itildebelow" format="2">
+	<unicode hex="1E2C"/>
+	<advance width="311"/>
+	<outline>
+		<component base="I"/>
+		<component base="tildebelowcomb" xOffset="156"/>
+	</outline>
+	<anchor name="bottom" x="62" y="-184"/>
+	<anchor name="top" x="253" y="714"/>
+	<anchor name="topright" x="390" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>I</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

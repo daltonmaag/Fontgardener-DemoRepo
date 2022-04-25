@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rbelowcomb" format="2">
+	<unicode hex="1DCA"/>
+	<outline>
+		<component base="r" xScale="0.45" yScale="0.4" xOffset="-88" yOffset="-278"/>
+	</outline>
+	<anchor name="_bottom" x="0" y="0"/>
+	<anchor name="bottom" x="-34" y="-278"/>
+	<anchor name="top" x="18.200000000000003" y="-63.599999999999994"/>
+	<anchor name="topright" x="79.4" y="-63.599999999999994"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

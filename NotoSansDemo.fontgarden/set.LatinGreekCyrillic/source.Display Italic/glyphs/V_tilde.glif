@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vtilde" format="2">
+	<unicode hex="1E7C"/>
+	<advance width="527"/>
+	<outline>
+		<component base="V"/>
+		<component base="tilde" xOffset="90" yOffset="178"/>
+	</outline>
+	<anchor name="bottom" x="208" y="0"/>
+	<anchor name="top" x="393" y="913"/>
+	<anchor name="topright" x="606" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis-cy" format="2">
+	<unicode hex="04ED"/>
+	<advance width="463"/>
+	<outline>
+		<component base="ereversed-cy"/>
+		<component base="dieresis" xOffset="-87"/>
+	</outline>
+	<anchor name="bottom" x="157" y="0"/>
+	<anchor name="top" x="277" y="752"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

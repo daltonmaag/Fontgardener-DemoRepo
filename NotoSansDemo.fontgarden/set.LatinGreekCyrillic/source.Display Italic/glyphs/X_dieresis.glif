@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xdieresis" format="2">
+	<unicode hex="1E8C"/>
+	<advance width="506"/>
+	<outline>
+		<component base="X"/>
+		<component base="dieresis" xOffset="11" yOffset="178"/>
+	</outline>
+	<anchor name="bottom" x="199" y="0"/>
+	<anchor name="top" x="378" y="908"/>
+	<anchor name="topright" x="585" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>X</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

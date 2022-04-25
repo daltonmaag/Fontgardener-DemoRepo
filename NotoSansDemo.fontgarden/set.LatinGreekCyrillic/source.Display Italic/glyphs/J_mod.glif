@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jmod" format="2">
+	<unicode hex="1D36"/>
+	<advance width="172"/>
+	<outline>
+		<component base="J" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="66" y="173"/>
+	<anchor name="top" x="181" y="715"/>
+	<anchor name="topright" x="222.3" y="428.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

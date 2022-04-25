@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhornhookabove" format="2">
+	<unicode hex="1EED"/>
+	<advance width="601"/>
+	<outline>
+		<component base="uhorn"/>
+		<component base="hook" xOffset="601"/>
+	</outline>
+	<anchor name="bottom" x="226" y="0"/>
+	<anchor name="top" x="390" y="820"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bdotbelow" format="2">
+	<unicode hex="1E05"/>
+	<advance width="610"/>
+	<outline>
+		<component base="b"/>
+		<component base="dotbelowcomb" xOffset="681"/>
+	</outline>
+	<anchor name="bottom" x="313" y="-234"/>
+	<anchor name="top" x="310" y="760"/>
+	<anchor name="topright" x="569" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OUmod" format="2">
+	<unicode hex="1D3D"/>
+	<advance width="517"/>
+	<outline>
+		<component base="OU" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="256" y="262"/>
+	<anchor name="top" x="352" y="715"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

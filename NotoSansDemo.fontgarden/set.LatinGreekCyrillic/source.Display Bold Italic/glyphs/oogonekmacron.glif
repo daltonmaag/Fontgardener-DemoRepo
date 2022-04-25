@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oogonekmacron" format="2">
+	<unicode hex="01ED"/>
+	<advance width="582"/>
+	<outline>
+		<component base="o"/>
+		<component base="macronmod" xOffset="85"/>
+		<component base="ogonek" xOffset="145"/>
+	</outline>
+	<anchor name="bottom" x="178" y="-256"/>
+	<anchor name="top" x="386" y="721"/>
+	<anchor name="center" x="291" y="277"/>
+	<anchor name="topright" x="621" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncircumflexbelow" format="2">
+	<unicode hex="1E4A"/>
+	<advance width="719"/>
+	<outline>
+		<component base="N"/>
+		<component base="circumflexbelowcomb" xOffset="359" yOffset="-10"/>
+	</outline>
+	<anchor name="bottom" x="359" y="-210"/>
+	<anchor name="top" x="359" y="714"/>
+	<anchor name="topright" x="700" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

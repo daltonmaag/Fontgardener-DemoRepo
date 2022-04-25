@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="raiseduparrowmod" format="2">
+	<unicode hex="A71B"/>
+	<advance width="442"/>
+	<outline>
+		<contour>
+			<point x="304" y="624" type="line"/>
+			<point x="329" y="624" type="line"/>
+			<point x="331" y="754" type="line"/>
+			<point x="402" y="754" type="line"/>
+			<point x="319" y="883" type="line"/>
+			<point x="234" y="754" type="line"/>
+			<point x="306" y="754" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

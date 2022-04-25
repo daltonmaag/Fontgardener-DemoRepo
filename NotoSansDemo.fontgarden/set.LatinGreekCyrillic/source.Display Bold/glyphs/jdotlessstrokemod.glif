@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotlessstrokemod" format="2">
+	<unicode hex="1DA1"/>
+	<advance width="221"/>
+	<outline>
+		<component base="jdotlessstroke" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="111" y="143"/>
+	<anchor name="top" x="111" y="619"/>
+	<anchor name="topright" x="221.65" y="618.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

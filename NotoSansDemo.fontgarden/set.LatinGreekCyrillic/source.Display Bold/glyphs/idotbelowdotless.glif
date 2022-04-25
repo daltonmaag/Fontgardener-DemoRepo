@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotbelowdotless" format="2">
+	<advance width="316"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dotbelowcomb" xOffset="523"/>
+	</outline>
+	<anchor name="bottom" x="162" y="-234"/>
+	<anchor name="top" x="163" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=idotless</string>
+		</dict>
+	</lib>
+</glyph>

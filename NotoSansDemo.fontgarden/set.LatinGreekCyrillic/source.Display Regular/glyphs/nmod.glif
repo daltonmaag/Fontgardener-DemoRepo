@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nmod" format="2">
+	<unicode hex="207F"/>
+	<advance width="380"/>
+	<outline>
+		<component base="n" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="189.8" y="287"/>
+	<anchor name="top" x="189.8" y="608.5999999999999"/>
+	<anchor name="topright" x="345.15000000000003" y="608.5999999999999"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+	<unicode hex="0304"/>
+	<outline>
+		<component base="macronmod" xOffset="-201"/>
+	</outline>
+	<anchor name="_top" x="1" y="546"/>
+	<anchor name="top" x="1" y="711"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aie-cy" format="2">
+	<unicode hex="04D4"/>
+	<advance width="886"/>
+	<outline>
+		<component base="AE"/>
+	</outline>
+	<anchor name="bottom" x="443" y="0"/>
+	<anchor name="top" x="508" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

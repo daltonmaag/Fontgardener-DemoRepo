@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scedilla.sc" format="2">
+	<advance width="471"/>
+	<outline>
+		<component base="s.sc"/>
+		<component base="cedilla" xOffset="153"/>
+	</outline>
+	<anchor name="bottom" x="124" y="-240"/>
+	<anchor name="top" x="302" y="591"/>
+	<anchor name="topright" x="518" y="591"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>s.sc</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

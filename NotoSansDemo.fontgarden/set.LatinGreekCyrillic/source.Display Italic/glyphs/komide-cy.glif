@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="komide-cy" format="2">
+	<unicode hex="0501"/>
+	<advance width="551"/>
+	<outline>
+		<component base="d"/>
+	</outline>
+	<anchor name="bottom" x="197" y="0"/>
+	<anchor name="top" x="354" y="760"/>
+	<anchor name="center" x="264" y="268"/>
+	<anchor name="topright" x="619" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

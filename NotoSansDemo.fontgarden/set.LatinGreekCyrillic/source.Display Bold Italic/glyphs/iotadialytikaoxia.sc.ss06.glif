@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadialytikaoxia.sc.ss06" format="2">
+	<advance width="387"/>
+	<outline>
+		<component base="iota.sc"/>
+		<component base="dialytikaoxia.sc" xOffset="-127" yOffset="38"/>
+	</outline>
+	<anchor name="bottom" x="133" y="0"/>
+	<anchor name="top" x="260" y="591"/>
+	<anchor name="topright" x="434" y="591"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>iota.sc</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dialytikaoxia.sc</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

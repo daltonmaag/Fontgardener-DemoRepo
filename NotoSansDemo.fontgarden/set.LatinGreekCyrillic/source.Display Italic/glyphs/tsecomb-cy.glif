@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecomb-cy" format="2">
+	<unicode hex="2DF0"/>
+	<outline>
+		<component base="tse-cy" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="57" y="536"/>
+	<anchor name="top" x="121" y="835"/>
+	<anchor name="bottom" x="85.5" y="-74.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>256</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

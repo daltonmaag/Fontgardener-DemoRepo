@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uk-cy" format="2">
+	<unicode hex="0479"/>
+	<advance width="1125"/>
+	<outline>
+		<component base="o"/>
+		<component base="y" xOffset="571"/>
+	</outline>
+	<anchor name="bottom" x="693" y="-240"/>
+	<anchor name="top" x="849" y="546"/>
+	<anchor name="center" x="296" y="273"/>
+	<anchor name="topright_1" x="572" y="546"/>
+	<anchor name="topright_2" x="1107" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

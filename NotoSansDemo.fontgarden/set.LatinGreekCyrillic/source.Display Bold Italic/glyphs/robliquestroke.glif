@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="robliquestroke" format="2">
+	<unicode hex="A7A7"/>
+	<advance width="437"/>
+	<outline>
+		<contour>
+			<point x="-25" y="137" type="line"/>
+			<point x="394" y="214" type="line"/>
+			<point x="419" y="331" type="line"/>
+			<point x="0" y="254" type="line"/>
+		</contour>
+		<component base="r"/>
+	</outline>
+	<anchor name="bottom" x="100" y="0"/>
+	<anchor name="top" x="309" y="553"/>
+	<anchor name="topright" x="478" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

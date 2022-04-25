@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphadasiaoxiaprosgegrammeni.ad" format="2">
+	<advance width="1487"/>
+	<outline>
+		<component base="Alpha" xOffset="326"/>
+		<component base="dasiaoxia.case" xOffset="-49"/>
+		<component base="prosgegrammeni" xOffset="1052"/>
+	</outline>
+	<anchor name="bottom" x="677" y="0"/>
+	<anchor name="topleft" x="455" y="714"/>
+	<anchor name="topright" x="948" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Alpha</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

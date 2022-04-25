@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiaperispomeni.case" format="2">
+	<advance width="387"/>
+	<outline>
+		<component base="dasiaperispomeni" yOffset="-191"/>
+	</outline>
+	<anchor name="_topleft" x="385" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=dasiaperispomeni</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=dasiaperispomeni</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beta.sc" format="2">
+	<advance width="496"/>
+	<outline>
+		<component base="b.sc"/>
+	</outline>
+	<anchor name="bottom" x="248" y="0"/>
+	<anchor name="top" x="248" y="572"/>
+	<anchor name="topright" x="477" y="572"/>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sacute.sc" format="2">
+	<advance width="427"/>
+	<outline>
+		<component base="s.sc"/>
+		<component base="acutecomb.sc" xOffset="-38"/>
+	</outline>
+	<anchor name="bottom" x="227" y="0"/>
+	<anchor name="top" x="227" y="786"/>
+	<anchor name="topright" x="408" y="572"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

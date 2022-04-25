@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="usidewaysmod" format="2">
+	<unicode hex="1D59"/>
+	<advance width="391"/>
+	<outline>
+		<component base="usideways" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="198" y="285"/>
+	<anchor name="top" x="267" y="613"/>
+	<anchor name="topright" x="16.25" y="351"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

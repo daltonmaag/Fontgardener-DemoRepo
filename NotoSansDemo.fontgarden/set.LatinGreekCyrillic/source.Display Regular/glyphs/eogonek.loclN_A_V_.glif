@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek.loclNAV" format="2">
+	<advance width="532"/>
+	<outline>
+		<component base="e"/>
+		<component base="ogonek" xOffset="176"/>
+	</outline>
+	<anchor name="bottom" x="283" y="-220"/>
+	<anchor name="top" x="269" y="536"/>
+	<anchor name="topright" x="513" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>e</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

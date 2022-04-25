@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninferior" format="2">
+	<unicode hex="2099"/>
+	<advance width="414"/>
+	<outline>
+		<component base="n" xScale="0.65" yScale="0.6" yOffset="-96"/>
+	</outline>
+	<anchor name="bottom" x="206.70000000000002" y="-96"/>
+	<anchor name="top" x="206.70000000000002" y="235.8"/>
+	<anchor name="topright" x="391.95" y="235.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

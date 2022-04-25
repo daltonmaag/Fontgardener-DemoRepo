@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Smiddlestroke" format="2">
+	<unicode hex="A7C9"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="42" y="355" type="line"/>
+			<point x="464" y="355" type="line"/>
+			<point x="464" y="380" type="line"/>
+			<point x="42" y="380" type="line"/>
+		</contour>
+		<component base="S"/>
+	</outline>
+	<anchor name="bottom" x="255" y="0"/>
+	<anchor name="top" x="256" y="714"/>
+	<anchor name="topright" x="491" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>S</string>
+		</dict>
+	</lib>
+</glyph>

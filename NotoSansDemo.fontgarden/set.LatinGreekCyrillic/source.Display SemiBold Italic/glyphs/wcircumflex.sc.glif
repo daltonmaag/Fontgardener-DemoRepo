@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcircumflex.sc" format="2">
+	<advance width="753"/>
+	<outline>
+		<component base="w.sc"/>
+		<component base="circumflexcomb.sc" xOffset="158"/>
+	</outline>
+	<anchor name="bottom" x="330" y="0"/>
+	<anchor name="top" x="501" y="802"/>
+	<anchor name="topright" x="800" y="582"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>w.sc</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

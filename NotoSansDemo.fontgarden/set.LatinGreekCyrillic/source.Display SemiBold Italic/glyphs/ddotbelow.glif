@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddotbelow" format="2">
+	<unicode hex="1E0D"/>
+	<advance width="566"/>
+	<outline>
+		<component base="d"/>
+		<component base="dotbelowcomb" xOffset="525"/>
+	</outline>
+	<anchor name="bottom" x="155" y="-210"/>
+	<anchor name="top" x="369" y="760"/>
+	<anchor name="center" x="281" y="273"/>
+	<anchor name="topright" x="629" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>d</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eturnedopenmod" format="2">
+	<unicode hex="1D4C"/>
+	<advance width="330"/>
+	<outline>
+		<component base="eturnedopen" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="147" y="281"/>
+	<anchor name="top" x="219" y="621"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hinferior" format="2">
+	<unicode hex="2095"/>
+	<advance width="358"/>
+	<outline>
+		<component base="h" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="143.65" y="0"/>
+	<anchor name="center" x="178.75" y="160.79999999999998"/>
+	<anchor name="top" x="149.5" y="456"/>
+	<anchor name="topright" x="378.3" y="456"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>h</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>h</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

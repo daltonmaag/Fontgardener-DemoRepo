@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhwe-cy" format="2">
+	<unicode hex="A684"/>
+	<advance width="1142"/>
+	<outline>
+		<contour>
+			<point x="239" y="407" type="line"/>
+			<point x="239" y="334" type="line"/>
+			<point x="708" y="334" type="line"/>
+			<point x="708" y="407" type="line"/>
+		</contour>
+		<component base="Ze-cy"/>
+		<component base="Ka-cy" xOffset="557"/>
+	</outline>
+	<anchor name="bottom_1" x="249" y="0"/>
+	<anchor name="bottom_2" x="864" y="0"/>
+	<anchor name="top_1" x="263" y="714"/>
+	<anchor name="top_2" x="875" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

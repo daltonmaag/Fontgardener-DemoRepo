@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicronpsili.sc" format="2">
+	<advance width="570"/>
+	<outline>
+		<component base="omicron.sc"/>
+	</outline>
+	<anchor name="bottom" x="286" y="0"/>
+	<anchor name="center" x="286" y="280"/>
+	<anchor name="top" x="286" y="559"/>
+	<anchor name="topright" x="551" y="559"/>
+	<guideline x="947" y="672" angle="0"/>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aturned" format="2">
+	<unicode hex="2C6F"/>
+	<advance width="605"/>
+	<outline>
+		<component base="A" xScale="-1" yScale="-1" xOffset="641" yOffset="714"/>
+	</outline>
+	<anchor name="bottom" x="244.972" y="0"/>
+	<anchor name="top" x="396.737" y="714"/>
+	<anchor name="topright" x="698" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=|A</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=|A</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mdotbelow" format="2">
+	<unicode hex="1E43"/>
+	<advance width="833"/>
+	<outline>
+		<component base="m"/>
+		<component base="dotbelowcomb" xOffset="685"/>
+	</outline>
+	<anchor name="bottom" x="323" y="-175"/>
+	<anchor name="top" x="474" y="536"/>
+	<anchor name="topright" x="870" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>m</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

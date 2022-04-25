@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecomb-cy" format="2">
+	<unicode hex="2DEB"/>
+	<outline>
+		<component base="pe-cy" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="57" y="536"/>
+	<anchor name="top" x="121" y="838"/>
+	<anchor name="bottom" x="105.75" y="0"/>
+	<anchor name="topright" x="265.05" y="214.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>248</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

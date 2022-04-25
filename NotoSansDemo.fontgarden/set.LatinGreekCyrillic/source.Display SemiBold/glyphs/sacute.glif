@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sacute" format="2">
+	<unicode hex="015B"/>
+	<advance width="477"/>
+	<outline>
+		<component base="s"/>
+		<component base="acutecomb" xOffset="235"/>
+	</outline>
+	<anchor name="bottom" x="235" y="0"/>
+	<anchor name="top" x="235" y="766"/>
+	<anchor name="topright" x="448" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

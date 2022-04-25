@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightDoubleParen" format="2">
+	<unicode hex="2E29"/>
+	<advance width="600"/>
+	<outline>
+		<component base="parenright" xOffset="-17"/>
+		<component base="parenright" xOffset="241"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Parenthesis</string>
+		</dict>
+	</lib>
+</glyph>

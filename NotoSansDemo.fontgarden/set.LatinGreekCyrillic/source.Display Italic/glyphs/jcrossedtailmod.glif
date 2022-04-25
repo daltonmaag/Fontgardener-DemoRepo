@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrossedtailmod" format="2">
+	<unicode hex="1DA8"/>
+	<advance width="161"/>
+	<outline>
+		<component base="jcrossedtail" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="54" y="143"/>
+	<anchor name="top" x="179" y="729"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

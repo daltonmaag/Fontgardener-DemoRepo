@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohminverted" format="2">
+	<unicode hex="2127"/>
+	<advance width="708"/>
+	<outline>
+		<component base="Ohm" xScale="-1" yScale="-1" xOffset="744" yOffset="714"/>
+	</outline>
+	<anchor name="bottom" x="444" y="714"/>
+	<anchor name="topleft" x="626" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Ohm</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=|Ohm</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=|Ohm</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

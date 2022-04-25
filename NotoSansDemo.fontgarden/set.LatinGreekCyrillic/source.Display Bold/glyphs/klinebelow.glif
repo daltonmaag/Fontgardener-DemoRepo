@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="klinebelow" format="2">
+	<unicode hex="1E35"/>
+	<advance width="640"/>
+	<outline>
+		<component base="k"/>
+		<component base="macronbelowcomb" xOffset="321"/>
+	</outline>
+	<anchor name="bottom" x="321" y="-199"/>
+	<anchor name="top" x="156" y="760"/>
+	<anchor name="topright" x="461" y="890"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

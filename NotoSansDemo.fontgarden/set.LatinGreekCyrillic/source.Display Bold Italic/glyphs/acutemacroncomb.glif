@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutemacroncomb" format="2">
+	<unicode hex="1DC7"/>
+	<outline>
+		<contour>
+			<point x="-17" y="583" type="line"/>
+			<point x="95" y="647" type="line"/>
+			<point x="230" y="647" type="line"/>
+			<point x="230" y="750" type="line"/>
+			<point x="75" y="750" type="line"/>
+			<point x="-62" y="672" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="64" y="533"/>
+	<anchor name="top" x="102" y="750"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

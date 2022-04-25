@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lj" format="2">
+	<unicode hex="01C8"/>
+	<advance width="835"/>
+	<outline>
+		<component base="L"/>
+		<component base="j" xOffset="539"/>
+	</outline>
+	<anchor name="bottom" x="579" y="-240"/>
+	<anchor name="top" x="687" y="760"/>
+	<anchor name="center" x="270" y="357"/>
+	<anchor name="topright_1" x="353" y="714"/>
+	<anchor name="topright_2" x="816" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

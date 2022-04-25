@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenmillionscomb-cy" format="2">
+	<unicode hex="A670"/>
+	<outline>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="-422" yOffset="-187"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="219" yOffset="-187"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="-563" yOffset="175"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="-96" yOffset="-297"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="364" yOffset="175"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="-422" yOffset="527"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="219" yOffset="527"/>
+		<component base="X" xScale="0.296" yScale="0.296" xOffset="-96" yOffset="625"/>
+	</outline>
+	<anchor name="_top" x="0" y="546"/>
+	<anchor name="bottom_1" x="-325.20799999999997" y="-187"/>
+	<anchor name="bottom_2" x="315.79200000000003" y="-187"/>
+	<anchor name="bottom_3" x="-466.20799999999997" y="175"/>
+	<anchor name="bottom_4" x="0.7920000000000016" y="-297"/>
+	<anchor name="bottom_5" x="460.79200000000003" y="175"/>
+	<anchor name="bottom_6" x="-325.20799999999997" y="527"/>
+	<anchor name="bottom_7" x="315.79200000000003" y="527"/>
+	<anchor name="bottom_8" x="0.7920000000000016" y="625"/>
+	<anchor name="top_1" x="-326.096" y="24.343999999999994"/>
+	<anchor name="top_2" x="314.904" y="24.343999999999994"/>
+	<anchor name="top_3" x="-467.096" y="386.344"/>
+	<anchor name="top_4" x="-0.09600000000000364" y="-85.656"/>
+	<anchor name="top_5" x="459.904" y="386.344"/>
+	<anchor name="top_6" x="-326.096" y="738.344"/>
+	<anchor name="top_7" x="314.904" y="738.344"/>
+	<anchor name="top_8" x="-0.09600000000000364" y="836.344"/>
+	<anchor name="topright_1" x="-234.336" y="24.343999999999994"/>
+	<anchor name="topright_2" x="406.664" y="24.343999999999994"/>
+	<anchor name="topright_3" x="-375.336" y="386.344"/>
+	<anchor name="topright_4" x="91.66399999999999" y="-85.656"/>
+	<anchor name="topright_5" x="551.664" y="386.344"/>
+	<anchor name="topright_6" x="-234.336" y="738.344"/>
+	<anchor name="topright_7" x="406.664" y="738.344"/>
+	<anchor name="topright_8" x="91.66399999999999" y="836.344"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>7</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Enclosing</string>
+		</dict>
+	</lib>
+</glyph>

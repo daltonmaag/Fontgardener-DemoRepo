@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otildedieresis" format="2">
+	<unicode hex="1E4F"/>
+	<advance width="608"/>
+	<outline>
+		<component base="o"/>
+		<component base="tildedieresis" xOffset="319"/>
+	</outline>
+	<anchor name="bottom" x="302" y="0"/>
+	<anchor name="top" x="305" y="870"/>
+	<anchor name="center" x="305" y="277"/>
+	<anchor name="topright" x="590" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

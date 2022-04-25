@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbarmod" format="2">
+	<unicode hex="A7F8"/>
+	<advance width="434"/>
+	<outline>
+		<component base="Hbar" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="181.35" y="0"/>
+	<anchor name="top" x="280.15000000000003" y="428.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

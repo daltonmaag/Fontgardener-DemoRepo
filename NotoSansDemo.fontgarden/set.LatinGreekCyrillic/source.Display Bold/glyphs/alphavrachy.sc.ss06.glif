@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphavrachy.sc.ss06" format="2">
+	<advance width="616"/>
+	<outline>
+		<component base="alpha.sc"/>
+		<component base="brevecomb.sc" xOffset="30" yOffset="5"/>
+	</outline>
+	<anchor name="bottom" x="309" y="0"/>
+	<anchor name="top" x="313" y="837"/>
+	<anchor name="topright" x="597" y="591"/>
+</glyph>

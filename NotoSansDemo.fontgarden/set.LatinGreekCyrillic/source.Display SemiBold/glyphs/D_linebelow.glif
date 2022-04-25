@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dlinebelow" format="2">
+	<unicode hex="1E0E"/>
+	<advance width="693"/>
+	<outline>
+		<component base="D"/>
+		<component base="macronbelowcomb" xOffset="331"/>
+	</outline>
+	<anchor name="bottom" x="331" y="-179"/>
+	<anchor name="top" x="347" y="714"/>
+	<anchor name="center" x="347" y="357"/>
+	<anchor name="topright" x="674" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotaserifedstroke" format="2">
+	<unicode hex="1D7B"/>
+	<advance width="304"/>
+	<outline>
+		<contour>
+			<point x="271" y="319" type="line"/>
+			<point x="33" y="319" type="line"/>
+			<point x="33" y="248" type="line"/>
+			<point x="271" y="248" type="line"/>
+		</contour>
+		<component base="iotaserifed"/>
+	</outline>
+	<anchor name="bottom" x="152" y="0"/>
+	<anchor name="top" x="152" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>iotaserifed</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

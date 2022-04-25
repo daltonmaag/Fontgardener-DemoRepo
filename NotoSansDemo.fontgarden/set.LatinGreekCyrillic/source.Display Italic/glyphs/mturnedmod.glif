@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mturnedmod" format="2">
+	<unicode hex="1D5A"/>
+	<advance width="541"/>
+	<outline>
+		<component base="mturned" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="274" y="281"/>
+	<anchor name="top" x="343" y="609"/>
+	<anchor name="topright" x="527.8000000000001" y="321.59999999999997"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

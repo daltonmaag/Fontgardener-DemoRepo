@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+	<unicode hex="018F"/>
+	<advance width="624"/>
+	<outline>
+		<component base="Schwa-cy"/>
+	</outline>
+	<anchor name="bottom" x="236" y="0"/>
+	<anchor name="top" x="368" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecedillabreve" format="2">
+	<unicode hex="1E1D"/>
+	<advance width="595"/>
+	<outline>
+		<component base="e"/>
+		<component base="breve" xOffset="62"/>
+		<component base="cedilla" xOffset="184"/>
+	</outline>
+	<anchor name="bottom" x="333" y="-240"/>
+	<anchor name="top" x="297" y="787"/>
+	<anchor name="topright" x="576" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

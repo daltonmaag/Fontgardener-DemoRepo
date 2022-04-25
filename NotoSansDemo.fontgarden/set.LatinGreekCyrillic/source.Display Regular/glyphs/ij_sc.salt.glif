@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij_sc.salt" format="2">
+	<advance width="568"/>
+	<outline>
+		<component base="i_sc.salt"/>
+		<component base="j_sc.salt" xOffset="225"/>
+	</outline>
+	<anchor name="bottom_1" x="112" y="0"/>
+	<anchor name="bottom_2" x="361" y="0"/>
+	<anchor name="top_1" x="112" y="572"/>
+	<anchor name="top_2" x="456" y="572"/>
+	<anchor name="topright_1" x="205" y="572"/>
+	<anchor name="topright_2" x="549" y="572"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

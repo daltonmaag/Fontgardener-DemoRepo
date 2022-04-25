@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis" format="2">
+	<unicode hex="03AB"/>
+	<advance width="536"/>
+	<outline>
+		<component base="Ydieresis"/>
+	</outline>
+	<anchor name="bottom" x="268" y="0"/>
+	<anchor name="top" x="268" y="908"/>
+	<anchor name="topright" x="517" y="714"/>
+</glyph>

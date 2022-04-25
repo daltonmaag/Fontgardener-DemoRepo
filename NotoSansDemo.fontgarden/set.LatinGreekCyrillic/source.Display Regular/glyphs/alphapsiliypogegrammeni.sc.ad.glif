@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphapsiliypogegrammeni.sc.ad" format="2">
+	<advance width="778"/>
+	<outline>
+		<component base="alpha.sc"/>
+		<component base="iota.sc" xOffset="501"/>
+	</outline>
+	<anchor name="bottom_1" x="251" y="0"/>
+	<anchor name="bottom_2" x="640" y="0"/>
+	<anchor name="top_1" x="252" y="572"/>
+	<anchor name="top_2" x="640" y="572"/>
+	<anchor name="topright_1" x="482" y="572"/>
+	<anchor name="topright_2" x="760" y="572"/>
+</glyph>

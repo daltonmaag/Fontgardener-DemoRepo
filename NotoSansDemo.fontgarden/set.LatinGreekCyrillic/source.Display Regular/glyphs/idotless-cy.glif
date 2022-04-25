@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless-cy" format="2">
+	<advance width="245"/>
+	<outline>
+		<component base="idotless"/>
+	</outline>
+	<anchor name="bottom" x="133" y="0"/>
+	<anchor name="top" x="129" y="536"/>
+</glyph>

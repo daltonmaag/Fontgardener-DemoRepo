@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccurlmod" format="2">
+	<unicode hex="1D9D"/>
+	<advance width="309"/>
+	<outline>
+		<component base="ccurl" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="151" y="255"/>
+	<anchor name="top" x="229" y="621"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elsoft-cy" format="2">
+	<unicode hex="A664"/>
+	<advance width="909"/>
+	<outline>
+		<contour>
+			<point x="887" y="714" type="line"/>
+			<point x="488" y="714" type="line"/>
+			<point x="488" y="0" type="line"/>
+			<point x="578" y="0" type="line"/>
+			<point x="578" y="637" type="line"/>
+			<point x="887" y="637" type="line"/>
+		</contour>
+		<component base="El-cy"/>
+	</outline>
+	<anchor name="bottom" x="334" y="-11"/>
+	<anchor name="top" x="334" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>Gamma</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

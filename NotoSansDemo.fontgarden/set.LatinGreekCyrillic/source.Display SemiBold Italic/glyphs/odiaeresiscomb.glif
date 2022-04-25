@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odiaeresiscomb" format="2">
+	<unicode hex="1DF3"/>
+	<outline>
+		<component base="odieresis" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="58" y="546"/>
+	<anchor name="bottom" x="99.9" y="0"/>
+	<anchor name="center" x="126" y="109.2"/>
+	<anchor name="top" x="171.9" y="300.8"/>
+	<anchor name="topright" x="269.1" y="218.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>252</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

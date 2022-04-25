@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gammamod-latin" format="2">
+	<unicode hex="02E0"/>
+	<advance width="395"/>
+	<outline>
+		<component base="gamma-latin" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="196.95000000000002" y="143"/>
+	<anchor name="top" x="196.95000000000002" y="618.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Superscript</string>
+		</dict>
+	</lib>
+</glyph>

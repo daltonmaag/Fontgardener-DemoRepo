@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vdotbelow" format="2">
+	<unicode hex="1E7E"/>
+	<advance width="565"/>
+	<outline>
+		<component base="V"/>
+		<component base="dotbelowcomb" xOffset="545"/>
+	</outline>
+	<anchor name="bottom" x="175" y="-210"/>
+	<anchor name="top" x="360" y="714"/>
+	<anchor name="topright" x="643" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

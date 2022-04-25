@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonekdotless" format="2">
+	<advance width="296"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="ogonek" xOffset="9"/>
+	</outline>
+	<anchor name="bottom" x="157" y="-240"/>
+	<anchor name="top" x="153" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>ogonek</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=idotless</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij.sc" format="2">
+	<advance width="631"/>
+	<outline>
+		<component base="i.sc"/>
+		<component base="j.sc" xOffset="348"/>
+	</outline>
+	<anchor name="bottom" x="317" y="-176"/>
+	<anchor name="top" x="317" y="582"/>
+	<anchor name="topright_1" x="330" y="582"/>
+	<anchor name="topright_2" x="612" y="582"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=j.sc</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

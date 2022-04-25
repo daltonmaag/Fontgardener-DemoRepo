@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbasereversed" format="2">
+	<unicode hex="2E42"/>
+	<advance width="410"/>
+	<outline>
+		<component base="commareversed" xOffset="167"/>
+		<component base="commareversed"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Quote</string>
+		</dict>
+	</lib>
+</glyph>

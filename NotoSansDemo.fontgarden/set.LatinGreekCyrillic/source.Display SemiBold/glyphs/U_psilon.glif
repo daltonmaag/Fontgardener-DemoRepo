@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="2">
+	<unicode hex="03A5"/>
+	<advance width="605"/>
+	<outline>
+		<component base="Y"/>
+	</outline>
+	<anchor name="topleft" x="-50" y="714"/>
+	<anchor name="bottom" x="303" y="0"/>
+	<anchor name="topright" x="586" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

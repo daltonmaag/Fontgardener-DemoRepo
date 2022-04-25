@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etapsiliperispomeniypogegrammeni.sc.ss06" format="2">
+	<advance width="566"/>
+	<outline>
+		<component base="eta.sc"/>
+		<component base="psiliperispomeni.sc" xOffset="59" yOffset="36"/>
+		<component base="ypogegrammeni" xOffset="167"/>
+	</outline>
+	<anchor name="bottom" x="283" y="0"/>
+	<anchor name="center" x="283" y="286"/>
+	<anchor name="top" x="283" y="572"/>
+	<anchor name="topright" x="547" y="572"/>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflextilde" format="2">
+	<unicode hex="1EAB"/>
+	<advance width="596"/>
+	<outline>
+		<component base="a"/>
+		<component base="circumflextildecomb" xOffset="647"/>
+	</outline>
+	<anchor name="bottom" x="289" y="0"/>
+	<anchor name="top" x="299" y="883"/>
+	<anchor name="topright" x="572" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

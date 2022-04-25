@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegapsiliypogegrammeni.sc.ad.ss06" format="2">
+	<advance width="1073"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="psili.sc" xOffset="218" yOffset="37"/>
+		<component base="iota.sc" xOffset="677"/>
+	</outline>
+	<anchor name="bottom_1" x="339" y="0"/>
+	<anchor name="bottom_2" x="876" y="0"/>
+	<anchor name="top_1" x="339" y="590"/>
+	<anchor name="top_2" x="876" y="591"/>
+	<anchor name="topright" x="1055" y="591"/>
+</glyph>

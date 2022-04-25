@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overlinecomb" format="2">
+	<unicode hex="0305"/>
+	<outline>
+		<contour>
+			<point x="-103" y="739" type="line"/>
+			<point x="290" y="739" type="line"/>
+			<point x="312" y="842" type="line"/>
+			<point x="-81" y="842" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="78" y="639"/>
+	<anchor name="top" x="107" y="842"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

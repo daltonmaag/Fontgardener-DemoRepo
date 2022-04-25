@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek.loclNAV" format="2">
+	<advance width="389"/>
+	<outline>
+		<component base="I"/>
+		<component base="ogonek" xOffset="52"/>
+	</outline>
+	<anchor name="bottom" x="195" y="-240"/>
+	<anchor name="top" x="195" y="714"/>
+	<anchor name="topright" x="371" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>I</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

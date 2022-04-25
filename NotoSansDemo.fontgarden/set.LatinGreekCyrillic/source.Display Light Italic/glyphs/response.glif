@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="response" format="2">
+	<unicode hex="211F"/>
+	<advance width="534"/>
+	<outline>
+		<contour>
+			<point x="112" y="-145" type="line"/>
+			<point x="140" y="-145" type="line"/>
+			<point x="523" y="790" type="line"/>
+			<point x="302" y="868" type="line"/>
+			<point x="293" y="844" type="line"/>
+			<point x="487" y="774" type="line"/>
+		</contour>
+		<component base="R"/>
+	</outline>
+	<anchor name="bottom" x="214" y="0"/>
+	<anchor name="top" x="366" y="714"/>
+	<anchor name="topright" x="614" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>R</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>R</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="je-cy" format="2">
+	<unicode hex="0458"/>
+	<advance width="248"/>
+	<outline>
+		<component base="j"/>
+	</outline>
+	<anchor name="bottom" x="-62" y="-240"/>
+	<anchor name="top" x="227" y="736"/>
+	<anchor name="topright" x="322" y="736"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

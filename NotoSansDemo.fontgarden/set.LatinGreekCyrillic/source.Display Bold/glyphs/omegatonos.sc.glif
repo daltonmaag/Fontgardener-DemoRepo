@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegatonos.sc" format="2">
+	<advance width="677"/>
+	<outline>
+		<component base="omega.sc"/>
+	</outline>
+	<anchor name="bottom" x="339" y="0"/>
+	<anchor name="top" x="339" y="590"/>
+</glyph>

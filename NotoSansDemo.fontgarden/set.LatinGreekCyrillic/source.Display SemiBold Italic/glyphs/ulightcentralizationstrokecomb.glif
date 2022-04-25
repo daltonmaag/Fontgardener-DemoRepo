@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ulightcentralizationstrokecomb" format="2">
+	<unicode hex="1DF0"/>
+	<outline>
+		<component base="u" xScale="0.45" yScale="0.4"/>
+		<component base="lightcentralizationstrokebelowcomb" xScale="0.45" yScale="0.4" xOffset="304"/>
+	</outline>
+	<anchor name="_top" x="58" y="546"/>
+	<anchor name="bottom" x="68.19999999999999" y="-96"/>
+	<anchor name="top" x="155.25" y="218.4"/>
+	<anchor name="topright" x="276.75" y="218.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>260</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

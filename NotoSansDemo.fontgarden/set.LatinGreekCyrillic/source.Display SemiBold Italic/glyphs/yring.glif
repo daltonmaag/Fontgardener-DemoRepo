@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yring" format="2">
+	<unicode hex="1E99"/>
+	<advance width="497"/>
+	<outline>
+		<component base="y"/>
+		<component base="ring" xOffset="58"/>
+	</outline>
+	<anchor name="bottom" x="2" y="-240"/>
+	<anchor name="top" x="369" y="837"/>
+	<anchor name="topright" x="535" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>y</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

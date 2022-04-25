@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hdotaccent" format="2">
+	<unicode hex="1E23"/>
+	<advance width="551"/>
+	<outline>
+		<component base="h"/>
+		<component base="dotaccent" xOffset="77" yOffset="224"/>
+	</outline>
+	<anchor name="bottom" x="221" y="0"/>
+	<anchor name="top" x="273" y="960"/>
+	<anchor name="center" x="275" y="268"/>
+	<anchor name="topright" x="582" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>h</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

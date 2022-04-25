@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotbelowdotless" format="2">
+	<advance width="287"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dotbelowcomb" xOffset="414"/>
+	</outline>
+	<anchor name="bottom" x="46" y="-210"/>
+	<anchor name="top" x="207" y="546"/>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fstroke" format="2">
+	<unicode hex="A799"/>
+	<advance width="361"/>
+	<outline>
+		<contour>
+			<point x="13" y="242" type="line"/>
+			<point x="346" y="243" type="line"/>
+			<point x="367" y="341" type="line"/>
+			<point x="34" y="340" type="line"/>
+		</contour>
+		<component base="f"/>
+	</outline>
+	<anchor name="bottom" x="-20" y="-240"/>
+	<anchor name="top" x="354" y="765"/>
+	<anchor name="topright" x="488" y="765"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

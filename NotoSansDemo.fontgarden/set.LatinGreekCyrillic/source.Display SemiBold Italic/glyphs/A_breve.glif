@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="2">
+	<unicode hex="0102"/>
+	<advance width="605"/>
+	<outline>
+		<component base="A"/>
+		<component base="breve" xOffset="111" yOffset="168"/>
+	</outline>
+	<anchor name="bottom" x="247" y="0"/>
+	<anchor name="top" x="417" y="939"/>
+	<anchor name="topright" x="683" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

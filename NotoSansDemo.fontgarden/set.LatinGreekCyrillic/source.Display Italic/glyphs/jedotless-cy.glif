@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jedotless-cy" format="2">
+	<advance width="248"/>
+	<outline>
+		<component base="jdotless"/>
+	</outline>
+	<anchor name="bottom" x="21" y="-240"/>
+	<anchor name="top" x="186" y="536"/>
+</glyph>

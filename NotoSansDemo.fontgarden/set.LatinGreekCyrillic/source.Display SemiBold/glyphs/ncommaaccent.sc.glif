@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncommaaccent.sc" format="2">
+	<advance width="664"/>
+	<outline>
+		<component base="n.sc"/>
+		<component base="commaaccent2" xOffset="96"/>
+	</outline>
+	<anchor name="bottom" x="346" y="-221"/>
+	<anchor name="top" x="346" y="582"/>
+	<anchor name="topright" x="645" y="582"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

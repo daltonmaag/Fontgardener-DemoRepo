@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeral-greek" format="2">
+	<unicode hex="0374"/>
+	<advance width="170"/>
+	<outline>
+		<contour>
+			<point x="37" y="576" type="line"/>
+			<point x="96" y="576" type="line"/>
+			<point x="191" y="756" type="line"/>
+			<point x="191" y="766" type="line"/>
+			<point x="85" y="766" type="line"/>
+			<point x="37" y="588" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=minute</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=minute</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

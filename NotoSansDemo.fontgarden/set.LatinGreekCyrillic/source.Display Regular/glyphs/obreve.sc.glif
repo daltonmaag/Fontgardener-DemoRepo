@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve.sc" format="2">
+	<advance width="597"/>
+	<outline>
+		<component base="o.sc"/>
+		<component base="brevecomb" xOffset="298" yOffset="36"/>
+	</outline>
+	<anchor name="bottom" x="316" y="0"/>
+	<anchor name="top" x="316" y="776"/>
+	<anchor name="center" x="298" y="286"/>
+	<anchor name="topright" x="578" y="572"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

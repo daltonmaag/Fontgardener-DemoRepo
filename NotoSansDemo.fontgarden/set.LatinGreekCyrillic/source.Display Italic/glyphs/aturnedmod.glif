@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aturnedmod" format="2">
+	<unicode hex="1D44"/>
+	<advance width="342"/>
+	<outline>
+		<component base="aturned" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="174" y="281"/>
+	<anchor name="top" x="245" y="614"/>
+	<anchor name="topright" x="349.05" y="327"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

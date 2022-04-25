@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos.sc.ss06" format="2">
+	<advance width="427"/>
+	<outline>
+		<component base="epsilon.sc"/>
+		<component base="tonos.sc" xOffset="142" yOffset="38"/>
+	</outline>
+	<anchor name="bottom" x="222" y="0"/>
+	<anchor name="top" x="229" y="591"/>
+	<anchor name="topright" x="408" y="591"/>
+</glyph>

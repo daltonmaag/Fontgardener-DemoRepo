@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gedescender-cy" format="2">
+	<unicode hex="04F6"/>
+	<advance width="553"/>
+	<outline>
+		<contour>
+			<point x="527" y="714" type="line"/>
+			<point x="66" y="714" type="line"/>
+			<point x="66" y="0" type="line"/>
+			<point x="215" y="0" type="line"/>
+			<point x="215" y="-222" type="line"/>
+			<point x="414" y="-222" type="line"/>
+			<point x="414" y="158" type="line"/>
+			<point x="271" y="158" type="line"/>
+			<point x="271" y="558" type="line"/>
+			<point x="527" y="558" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="276" y="-222"/>
+	<anchor name="top" x="276" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

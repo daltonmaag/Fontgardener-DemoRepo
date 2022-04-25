@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hdescender" format="2">
+	<unicode hex="2C68"/>
+	<advance width="616"/>
+	<outline>
+		<contour>
+			<point x="507" y="74" type="line"/>
+			<point x="440" y="0" type="line"/>
+			<point x="509" y="0" type="line"/>
+			<point x="509" y="-186" type="line"/>
+			<point x="596" y="-186" type="line"/>
+			<point x="596" y="74" type="line"/>
+		</contour>
+		<component base="h"/>
+	</outline>
+	<anchor name="bottom" x="293" y="-186"/>
+	<anchor name="top" x="124" y="760"/>
+	<anchor name="center" x="292" y="268"/>
+	<anchor name="topright" x="505" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

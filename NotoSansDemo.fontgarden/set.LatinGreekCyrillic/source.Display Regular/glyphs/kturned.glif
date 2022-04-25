@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kturned" format="2">
+	<unicode hex="029E"/>
+	<advance width="508"/>
+	<outline>
+		<component base="k" xScale="-1" yScale="-1" xOffset="508" yOffset="536"/>
+	</outline>
+	<anchor name="bottom" x="254" y="-224"/>
+	<anchor name="top" x="254" y="536"/>
+	<anchor name="topright" x="429" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

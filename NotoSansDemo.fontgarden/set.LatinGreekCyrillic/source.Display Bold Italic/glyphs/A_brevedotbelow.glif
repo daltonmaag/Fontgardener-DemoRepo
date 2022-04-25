@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="2">
+	<unicode hex="1EB6"/>
+	<advance width="653"/>
+	<outline>
+		<component base="A"/>
+		<component base="breve" xOffset="114" yOffset="161"/>
+		<component base="dotbelowcomb" xOffset="595"/>
+	</outline>
+	<anchor name="bottom" x="220" y="-235"/>
+	<anchor name="top" x="472" y="948"/>
+	<anchor name="topright" x="730" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

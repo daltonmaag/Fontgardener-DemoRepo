@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kinferior" format="2">
+	<unicode hex="2096"/>
+	<advance width="391"/>
+	<outline>
+		<component base="k" xScale="0.65" yScale="0.6" yOffset="-96"/>
+	</outline>
+	<anchor name="bottom" x="202.15" y="-96"/>
+	<anchor name="top" x="98.8" y="360"/>
+	<anchor name="topright" x="299" y="408"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

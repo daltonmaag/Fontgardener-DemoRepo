@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adblgrave" format="2">
+	<unicode hex="0200"/>
+	<advance width="539"/>
+	<outline>
+		<component base="A"/>
+		<component base="dblgravecomb" xOffset="612" yOffset="178"/>
+	</outline>
+	<anchor name="bottom" x="215" y="0"/>
+	<anchor name="top" x="416" y="944"/>
+	<anchor name="topright" x="618" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

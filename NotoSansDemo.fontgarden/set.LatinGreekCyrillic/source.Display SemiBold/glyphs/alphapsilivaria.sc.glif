@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphapsilivaria.sc" format="2">
+	<advance width="577"/>
+	<outline>
+		<component base="alpha.sc"/>
+	</outline>
+	<anchor name="bottom" x="289" y="0"/>
+	<anchor name="top" x="289" y="582"/>
+	<anchor name="topright" x="558" y="582"/>
+</glyph>

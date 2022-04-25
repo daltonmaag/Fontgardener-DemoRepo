@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tethreelegged-cy" format="2">
+	<unicode hex="1C85"/>
+	<advance width="963"/>
+	<outline>
+		<contour>
+			<point x="56" y="0" type="line"/>
+			<point x="258" y="0" type="line"/>
+			<point x="258" y="411" type="line"/>
+			<point x="383" y="411" type="line"/>
+			<point x="383" y="0" type="line"/>
+			<point x="577" y="0" type="line"/>
+			<point x="577" y="411" type="line"/>
+			<point x="705" y="411" type="line"/>
+			<point x="705" y="0" type="line"/>
+			<point x="907" y="0" type="line"/>
+			<point x="907" y="553" type="line"/>
+			<point x="56" y="553" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="481" y="0"/>
+	<anchor name="top" x="481" y="553"/>
+</glyph>

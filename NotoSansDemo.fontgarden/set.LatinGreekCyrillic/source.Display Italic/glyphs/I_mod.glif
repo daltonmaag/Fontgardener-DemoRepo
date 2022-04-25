@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imod" format="2">
+	<unicode hex="1D35"/>
+	<advance width="202"/>
+	<outline>
+		<component base="I" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="105" y="287"/>
+	<anchor name="top" x="196" y="715"/>
+	<anchor name="topright" x="253.5" y="428.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

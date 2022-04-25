@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nlefthookmod" format="2">
+	<unicode hex="1DAE"/>
+	<advance width="430"/>
+	<outline>
+		<component base="nhookleft" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="215" y="143"/>
+	<anchor name="top" x="215" y="625"/>
+	<anchor name="topright" x="391.95" y="618.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

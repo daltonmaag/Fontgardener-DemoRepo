@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fdotaccent" format="2">
+	<unicode hex="1E1F"/>
+	<advance width="398"/>
+	<outline>
+		<component base="f"/>
+		<component base="dotaccent" xOffset="157" yOffset="207"/>
+	</outline>
+	<anchor name="bottom" x="1" y="-240"/>
+	<anchor name="top" x="403" y="984"/>
+	<anchor name="topright" x="524" y="765"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

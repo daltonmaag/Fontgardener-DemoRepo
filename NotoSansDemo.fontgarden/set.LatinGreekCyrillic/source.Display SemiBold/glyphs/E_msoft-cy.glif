@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emsoft-cy" format="2">
+	<unicode hex="A666"/>
+	<advance width="1133"/>
+	<outline>
+		<contour>
+			<point x="1112" y="714" type="line"/>
+			<point x="661" y="714" type="line"/>
+			<point x="812" y="589" type="line"/>
+			<point x="1112" y="589" type="line"/>
+		</contour>
+		<component base="M"/>
+	</outline>
+	<anchor name="bottom" x="445" y="0"/>
+	<anchor name="top" x="451" y="714"/>
+	<anchor name="topright" x="879" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

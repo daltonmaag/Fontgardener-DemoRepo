@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="2">
+	<unicode hex="01FF"/>
+	<advance width="570"/>
+	<outline>
+		<component base="oslash"/>
+		<component base="acutecomb" xOffset="285" yOffset="30"/>
+	</outline>
+	<anchor name="bottom" x="303" y="-33"/>
+	<anchor name="top" x="303" y="796"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

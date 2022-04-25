@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphapsiliperispomeniypogegrammeni.sc.ss06" format="2">
+	<advance width="616"/>
+	<outline>
+		<component base="alpha.sc"/>
+		<component base="psiliperispomeni.sc" xOffset="63" yOffset="38"/>
+		<component base="ypogegrammeni" xOffset="186"/>
+	</outline>
+	<anchor name="bottom" x="309" y="0"/>
+	<anchor name="top" x="309" y="591"/>
+	<anchor name="topright" x="597" y="591"/>
+</glyph>

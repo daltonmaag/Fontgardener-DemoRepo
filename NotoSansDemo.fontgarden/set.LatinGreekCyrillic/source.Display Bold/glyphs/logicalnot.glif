@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+	<unicode hex="00AC"/>
+	<advance width="570"/>
+	<outline>
+		<contour>
+			<point x="520" y="418" type="line"/>
+			<point x="49" y="418" type="line"/>
+			<point x="49" y="287" type="line"/>
+			<point x="382" y="287" type="line"/>
+			<point x="382" y="116" type="line"/>
+			<point x="520" y="116" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jedotless-cy" format="2">
+	<advance width="296"/>
+	<outline>
+		<component base="jdotless"/>
+	</outline>
+	<anchor name="bottom" x="34" y="-240"/>
+	<anchor name="top" x="153" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=jdotless</string>
+		</dict>
+	</lib>
+</glyph>

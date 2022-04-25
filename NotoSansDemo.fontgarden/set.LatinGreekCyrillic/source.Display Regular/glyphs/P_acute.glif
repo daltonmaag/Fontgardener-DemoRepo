@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pacute" format="2">
+	<unicode hex="1E54"/>
+	<advance width="571"/>
+	<outline>
+		<component base="P"/>
+		<component base="acutecomb" xOffset="299" yOffset="178"/>
+	</outline>
+	<anchor name="bottom" x="286" y="0"/>
+	<anchor name="top" x="299" y="944"/>
+	<anchor name="topright" x="552" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

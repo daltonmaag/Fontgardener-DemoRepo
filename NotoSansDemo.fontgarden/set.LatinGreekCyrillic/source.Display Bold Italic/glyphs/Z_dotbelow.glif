@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotbelow" format="2">
+	<unicode hex="1E92"/>
+	<advance width="513"/>
+	<outline>
+		<component base="Z"/>
+		<component base="dotbelowcomb" xOffset="512"/>
+	</outline>
+	<anchor name="bottom" x="137" y="-235"/>
+	<anchor name="top" x="353" y="714"/>
+	<anchor name="topright" x="590" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>Z</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

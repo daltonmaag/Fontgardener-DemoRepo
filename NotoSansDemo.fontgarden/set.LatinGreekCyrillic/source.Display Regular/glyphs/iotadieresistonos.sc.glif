@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresistonos.sc" format="2">
+	<advance width="277"/>
+	<outline>
+		<component base="idieresis.sc"/>
+	</outline>
+	<anchor name="bottom" x="146" y="0"/>
+	<anchor name="top" x="146" y="749"/>
+	<anchor name="topright" x="259" y="572"/>
+</glyph>

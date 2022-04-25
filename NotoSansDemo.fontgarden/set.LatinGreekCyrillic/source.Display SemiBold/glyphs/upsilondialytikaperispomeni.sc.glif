@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondialytikaperispomeni.sc" format="2">
+	<advance width="528"/>
+	<outline>
+		<component base="ydieresis.sc"/>
+	</outline>
+	<anchor name="bottom" x="271" y="0"/>
+	<anchor name="top" x="271" y="772"/>
+	<anchor name="topright" x="509" y="582"/>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="2">
+	<unicode hex="002B"/>
+	<advance width="536"/>
+	<outline>
+		<contour>
+			<point x="280" y="365" type="line"/>
+			<point x="280" y="583" type="line"/>
+			<point x="255" y="583" type="line"/>
+			<point x="255" y="365" type="line"/>
+			<point x="51" y="365" type="line"/>
+			<point x="51" y="341" type="line"/>
+			<point x="255" y="341" type="line"/>
+			<point x="255" y="123" type="line"/>
+			<point x="280" y="123" type="line"/>
+			<point x="280" y="341" type="line"/>
+			<point x="484" y="341" type="line"/>
+			<point x="484" y="365" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

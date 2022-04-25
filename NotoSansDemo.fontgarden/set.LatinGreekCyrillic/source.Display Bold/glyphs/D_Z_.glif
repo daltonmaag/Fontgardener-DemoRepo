@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DZ" format="2">
+	<unicode hex="01F1"/>
+	<advance width="1269"/>
+	<outline>
+		<component base="D"/>
+		<component base="Z" xOffset="678"/>
+	</outline>
+	<anchor name="bottom" x="980" y="0"/>
+	<anchor name="top" x="984" y="714"/>
+	<anchor name="center" x="344" y="357"/>
+	<anchor name="topright_1" x="668" y="714"/>
+	<anchor name="topright_2" x="1250" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

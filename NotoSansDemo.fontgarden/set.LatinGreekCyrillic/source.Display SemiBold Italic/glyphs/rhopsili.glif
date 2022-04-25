@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhopsili" format="2">
+	<unicode hex="1FE4"/>
+	<advance width="569"/>
+	<outline>
+		<component base="rho"/>
+		<component base="psili" xOffset="130"/>
+	</outline>
+	<anchor name="bottom" x="178" y="-240"/>
+	<anchor name="top" x="342" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>rho</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>psili</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

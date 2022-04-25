@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SigmaLunateReversedSymbol" format="2">
+	<unicode hex="03FD"/>
+	<advance width="612"/>
+	<outline>
+		<component base="Oopen"/>
+	</outline>
+	<anchor name="bottom" x="188" y="0"/>
+	<anchor name="top" x="316" y="714"/>
+	<anchor name="topright" x="-41" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

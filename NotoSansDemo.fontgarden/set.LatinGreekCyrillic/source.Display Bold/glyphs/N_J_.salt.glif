@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NJ.salt" format="2">
+	<advance width="1288"/>
+	<outline>
+		<component base="N"/>
+		<component base="J.salt" xOffset="796"/>
+	</outline>
+	<anchor name="bottom_1" x="398" y="0"/>
+	<anchor name="bottom_2" x="1016" y="0"/>
+	<anchor name="top_1" x="398" y="714"/>
+	<anchor name="top_2" x="1117" y="714"/>
+	<anchor name="topright_1" x="777" y="714"/>
+	<anchor name="topright_2" x="1269" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pstroke" format="2">
+	<unicode hex="1D7D"/>
+	<advance width="633"/>
+	<outline>
+		<contour>
+			<point x="633" y="327" type="line"/>
+			<point x="0" y="327" type="line"/>
+			<point x="0" y="230" type="line"/>
+			<point x="633" y="230" type="line"/>
+		</contour>
+		<component base="p"/>
+	</outline>
+	<anchor name="bottom" x="149" y="-240"/>
+	<anchor name="top" x="315" y="546"/>
+	<anchor name="topright" x="581" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

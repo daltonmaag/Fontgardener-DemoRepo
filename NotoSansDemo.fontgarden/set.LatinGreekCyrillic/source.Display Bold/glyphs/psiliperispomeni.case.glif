@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psiliperispomeni.case" format="2">
+	<advance width="470"/>
+	<outline>
+		<component base="psiliperispomeni" yOffset="-259"/>
+	</outline>
+	<anchor name="_topleft" x="470" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=psiliperispomeni</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=psiliperispomeni</string>
+		</dict>
+	</lib>
+</glyph>

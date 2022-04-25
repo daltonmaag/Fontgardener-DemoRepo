@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gobliquestroke" format="2">
+	<unicode hex="A7A1"/>
+	<advance width="579"/>
+	<outline>
+		<contour>
+			<point x="3" y="259" type="line"/>
+			<point x="3" y="196" type="line"/>
+			<point x="577" y="308" type="line"/>
+			<point x="577" y="371" type="line"/>
+		</contour>
+		<component base="g"/>
+	</outline>
+	<anchor name="bottom" x="280" y="-240"/>
+	<anchor name="top" x="280" y="536"/>
+	<anchor name="topright" x="524" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=g</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

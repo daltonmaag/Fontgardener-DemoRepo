@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kmod" format="2">
+	<unicode hex="1D4F"/>
+	<advance width="357"/>
+	<outline>
+		<component base="k" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="182" y="287"/>
+	<anchor name="top" x="279" y="743"/>
+	<anchor name="topright" x="354.25" y="504"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

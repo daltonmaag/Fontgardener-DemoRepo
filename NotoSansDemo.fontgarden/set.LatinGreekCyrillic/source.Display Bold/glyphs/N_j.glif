@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nj" format="2">
+	<unicode hex="01CB"/>
+	<advance width="1111"/>
+	<outline>
+		<component base="N"/>
+		<component base="j" xOffset="796"/>
+	</outline>
+	<anchor name="bottom" x="854" y="-240"/>
+	<anchor name="top" x="953" y="776"/>
+	<anchor name="topright_1" x="777" y="714"/>
+	<anchor name="topright_2" x="1093" y="776"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

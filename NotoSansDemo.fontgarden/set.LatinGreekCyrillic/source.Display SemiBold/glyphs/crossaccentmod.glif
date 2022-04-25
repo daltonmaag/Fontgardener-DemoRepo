@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="crossaccentmod" format="2">
+	<unicode hex="02DF"/>
+	<advance width="272"/>
+	<outline>
+		<component base="xabovecomb" xOffset="136"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Superscript</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tturned" format="2">
+	<unicode hex="0287"/>
+	<advance width="345"/>
+	<outline>
+		<component base="t" xScale="-1" yScale="-1" xOffset="345" yOffset="536"/>
+	</outline>
+	<anchor name="bottom" x="173" y="-123"/>
+	<anchor name="top" x="173" y="546"/>
+	<anchor name="topright" x="329" y="546"/>
+	<anchor name="center" x="172" y="268"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

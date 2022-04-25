@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mturnedsmall" format="2">
+	<unicode hex="A7FA"/>
+	<advance width="769"/>
+	<outline>
+		<contour>
+			<point x="23" y="0" type="line"/>
+			<point x="629" y="0" type="line"/>
+			<point x="744" y="546" type="line"/>
+			<point x="628" y="546" type="line"/>
+			<point x="534" y="96" type="line"/>
+			<point x="405" y="96" type="line"/>
+			<point x="499" y="546" type="line"/>
+			<point x="383" y="546" type="line"/>
+			<point x="289" y="96" type="line"/>
+			<point x="160" y="96" type="line"/>
+			<point x="255" y="546" type="line"/>
+			<point x="138" y="546" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="326.972" y="0"/>
+	<anchor name="top" x="443.028" y="546"/>
+	<anchor name="topright" x="745" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

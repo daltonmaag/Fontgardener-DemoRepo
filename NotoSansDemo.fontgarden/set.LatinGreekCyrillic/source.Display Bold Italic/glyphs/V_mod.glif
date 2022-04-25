@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vmod" format="2">
+	<unicode hex="2C7D"/>
+	<advance width="385"/>
+	<outline>
+		<component base="V" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="139.75" y="0"/>
+	<anchor name="top" x="235.3" y="428.4"/>
+	<anchor name="topright" x="434.85" y="428.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

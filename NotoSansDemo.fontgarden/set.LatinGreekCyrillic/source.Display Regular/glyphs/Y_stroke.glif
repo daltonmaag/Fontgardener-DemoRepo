@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ystroke" format="2">
+	<unicode hex="024E"/>
+	<advance width="536"/>
+	<outline>
+		<contour>
+			<point x="524" y="586" type="line"/>
+			<point x="10" y="586" type="line"/>
+			<point x="10" y="508" type="line"/>
+			<point x="524" y="508" type="line"/>
+		</contour>
+		<component base="Y"/>
+	</outline>
+	<anchor name="bottom" x="268" y="0"/>
+	<anchor name="top" x="268" y="714"/>
+	<anchor name="topright" x="517" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

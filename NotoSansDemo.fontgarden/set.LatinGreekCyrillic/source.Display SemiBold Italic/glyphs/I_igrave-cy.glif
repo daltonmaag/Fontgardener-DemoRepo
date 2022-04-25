@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iigrave-cy" format="2">
+	<unicode hex="040D"/>
+	<advance width="725"/>
+	<outline>
+		<component base="Ii-cy"/>
+		<component base="grave" xOffset="185" yOffset="168"/>
+	</outline>
+	<anchor name="bottom" x="307" y="0"/>
+	<anchor name="top" x="466" y="934"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

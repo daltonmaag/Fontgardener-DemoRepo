@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrossedtailmoddotless" format="2">
+	<advance width="219"/>
+	<outline>
+		<component base="jcrossedtaildotless" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="38.35" y="143"/>
+	<anchor name="top" x="102.05" y="618.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>jcrossedtailmod</string>
+		</dict>
+	</lib>
+</glyph>

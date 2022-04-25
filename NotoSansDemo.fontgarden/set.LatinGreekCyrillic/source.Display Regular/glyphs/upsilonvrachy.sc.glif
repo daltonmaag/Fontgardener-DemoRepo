@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonvrachy.sc" format="2">
+	<advance width="450"/>
+	<outline>
+		<component base="y.sc"/>
+	</outline>
+	<anchor name="bottom" x="225" y="0"/>
+	<anchor name="top" x="225" y="572"/>
+	<anchor name="topright" x="431" y="572"/>
+</glyph>

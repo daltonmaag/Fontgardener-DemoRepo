@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotbelow" format="2">
+	<unicode hex="1ECA"/>
+	<advance width="311"/>
+	<outline>
+		<component base="I"/>
+		<component base="dotbelowcomb" xOffset="426"/>
+	</outline>
+	<anchor name="bottom" x="64" y="-175"/>
+	<anchor name="top" x="253" y="714"/>
+	<anchor name="topright" x="390" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="2">
+	<unicode hex="01D1"/>
+	<advance width="702"/>
+	<outline>
+		<component base="O"/>
+		<component base="caron" xOffset="117" yOffset="161"/>
+	</outline>
+	<anchor name="bottom" x="310" y="0"/>
+	<anchor name="top" x="484" y="927"/>
+	<anchor name="center" x="372" y="357"/>
+	<anchor name="topright" x="778" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

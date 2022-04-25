@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rturnedmod" format="2">
+	<unicode hex="02B4"/>
+	<advance width="272"/>
+	<outline>
+		<component base="rturned" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="96.85000000000001" y="-6"/>
+	<anchor name="top" x="174.7018" y="331.8"/>
+	<anchor name="topright" x="271.05" y="331.8"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kdotbelow" format="2">
+	<unicode hex="1E33"/>
+	<advance width="475"/>
+	<outline>
+		<component base="k"/>
+		<component base="dotbelowcomb" xOffset="538"/>
+	</outline>
+	<anchor name="bottom" x="176" y="-175"/>
+	<anchor name="top" x="228" y="760"/>
+	<anchor name="topright" x="504" y="840"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>k</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

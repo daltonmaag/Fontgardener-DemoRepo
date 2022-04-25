@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegadasiaperispomeniypogegrammeni.sc.ss06" format="2">
+	<advance width="677"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="dasiaperispomeni.sc" xOffset="94" yOffset="37"/>
+		<component base="ypogegrammeni" xOffset="216"/>
+	</outline>
+	<anchor name="bottom" x="339" y="0"/>
+	<anchor name="top" x="339" y="590"/>
+</glyph>

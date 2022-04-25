@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mturned" format="2">
+	<unicode hex="026F"/>
+	<advance width="882"/>
+	<outline>
+		<component base="m" xScale="-1" yScale="-1" xOffset="882" yOffset="536"/>
+	</outline>
+	<anchor name="bottom" x="441" y="-10"/>
+	<anchor name="top" x="441" y="536"/>
+	<anchor name="topright" x="803" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

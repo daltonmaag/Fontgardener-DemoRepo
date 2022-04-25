@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ihookabove" format="2">
+	<unicode hex="1EC9"/>
+	<advance width="287"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="hook" xOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="91" y="0"/>
+	<anchor name="top" x="267" y="830"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

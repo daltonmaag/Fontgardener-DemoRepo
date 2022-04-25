@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ercomb-cy" format="2">
+	<unicode hex="2DEC"/>
+	<outline>
+		<component base="er-cy" xScale="0.45" yScale="0.4" xOffset="-120" yOffset="720"/>
+	</outline>
+	<anchor name="_top" x="0" y="536"/>
+	<anchor name="top" x="0" y="939"/>
+	<anchor name="bottom" x="-64.65" y="624"/>
+	<anchor name="topright" x="128.4" y="934.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

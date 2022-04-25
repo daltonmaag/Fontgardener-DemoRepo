@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacrongrave" format="2">
+	<unicode hex="1E15"/>
+	<advance width="478"/>
+	<outline>
+		<component base="e"/>
+		<component base="macrongrave" xOffset="478"/>
+	</outline>
+	<anchor name="bottom" x="225" y="0"/>
+	<anchor name="top" x="380" y="881"/>
+	<anchor name="topright" x="518" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>e</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umod" format="2">
+	<unicode hex="1D41"/>
+	<advance width="462"/>
+	<outline>
+		<component base="U" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="231" y="281"/>
+	<anchor name="top" x="231" y="715"/>
+	<anchor name="topright" x="449.8" y="715.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

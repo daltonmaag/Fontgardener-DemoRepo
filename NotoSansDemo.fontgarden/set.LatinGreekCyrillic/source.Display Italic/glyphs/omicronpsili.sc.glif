@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicronpsili.sc" format="2">
+	<advance width="566"/>
+	<outline>
+		<component base="omicron.sc"/>
+	</outline>
+	<anchor name="bottom" x="226" y="0"/>
+	<anchor name="center" x="345" y="286"/>
+	<anchor name="top" x="348" y="571"/>
+	<anchor name="topright" x="611" y="571"/>
+	<guideline x="1015" y="672" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>omicron.sc</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

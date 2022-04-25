@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.sc" format="2">
+	<advance width="271"/>
+	<outline>
+		<component base="i.sc"/>
+		<component base="ogonekcomb.sc" xOffset="45"/>
+	</outline>
+	<anchor name="bottom" x="34" y="-217"/>
+	<anchor name="top" x="202" y="571"/>
+	<anchor name="topright" x="317" y="571"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>i.sc</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

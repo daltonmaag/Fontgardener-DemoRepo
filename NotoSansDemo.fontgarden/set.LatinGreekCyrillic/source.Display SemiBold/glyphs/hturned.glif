@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hturned" format="2">
+	<unicode hex="0265"/>
+	<advance width="624"/>
+	<outline>
+		<component base="h" xScale="-1" yScale="-1" xOffset="624" yOffset="546"/>
+	</outline>
+	<anchor name="bottom" x="312" y="-214"/>
+	<anchor name="top" x="312" y="546"/>
+	<anchor name="topright" x="556" y="546"/>
+	<anchor name="center" x="312" y="273"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiavaria.case" format="2">
+	<advance width="431"/>
+	<outline>
+		<component base="dasiavaria" yOffset="-62"/>
+	</outline>
+	<anchor name="_topleft" x="411" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=dasiavaria</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=dasiavaria</string>
+		</dict>
+	</lib>
+</glyph>

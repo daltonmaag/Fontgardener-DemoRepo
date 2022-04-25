@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha_macroncomb_commareversedabovecomb_acutecomb" format="2">
+	<advance width="620"/>
+	<outline>
+		<component base="alpha"/>
+		<component base="dasiaoxia_macronmod" xOffset="70"/>
+	</outline>
+	<anchor name="bottom" x="307" y="0"/>
+	<anchor name="top" x="253" y="546"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omultiocular-cy" format="2">
+	<unicode hex="A66E"/>
+	<advance width="834"/>
+	<outline>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="474" yOffset="132"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="15" yOffset="132"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="368" yOffset="389"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="244" yOffset="132"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="138" yOffset="389"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="368" yOffset="-125"/>
+		<component base="Omonocular-cy" xScale="0.462" yScale="0.462" xOffset="138" yOffset="-125"/>
+	</outline>
+	<anchor name="bottom_1" x="646.326" y="132"/>
+	<anchor name="bottom_2" x="187.32600000000002" y="132"/>
+	<anchor name="bottom_3" x="540.326" y="389"/>
+	<anchor name="bottom_4" x="416.326" y="132"/>
+	<anchor name="bottom_5" x="310.326" y="389"/>
+	<anchor name="bottom_6" x="540.326" y="-125"/>
+	<anchor name="bottom_7" x="310.326" y="-125"/>
+	<anchor name="center_1" x="647.25" y="296.93399999999997"/>
+	<anchor name="center_2" x="188.25" y="296.93399999999997"/>
+	<anchor name="center_3" x="541.25" y="553.934"/>
+	<anchor name="center_4" x="417.25" y="296.93399999999997"/>
+	<anchor name="center_5" x="311.25" y="553.934"/>
+	<anchor name="center_6" x="541.25" y="39.934"/>
+	<anchor name="center_7" x="311.25" y="39.934"/>
+	<anchor name="top_1" x="647.25" y="466.95"/>
+	<anchor name="top_2" x="188.25" y="466.95"/>
+	<anchor name="top_3" x="541.25" y="723.95"/>
+	<anchor name="top_4" x="417.25" y="466.95"/>
+	<anchor name="top_5" x="311.25" y="723.95"/>
+	<anchor name="top_6" x="541.25" y="209.95"/>
+	<anchor name="top_7" x="311.25" y="209.95"/>
+	<anchor name="topright_1" x="811.722" y="466.95"/>
+	<anchor name="topright_2" x="352.72200000000004" y="466.95"/>
+	<anchor name="topright_3" x="705.722" y="723.95"/>
+	<anchor name="topright_4" x="581.722" y="466.95"/>
+	<anchor name="topright_5" x="475.72200000000004" y="723.95"/>
+	<anchor name="topright_6" x="705.722" y="209.95"/>
+	<anchor name="topright_7" x="475.72200000000004" y="209.95"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

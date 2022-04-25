@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="UpsilondieresishookSymbol" format="2">
+	<unicode hex="03D4"/>
+	<advance width="680"/>
+	<outline>
+		<component base="UpsilonhookSymbol"/>
+		<component base="dieresiscomb" xOffset="323" yOffset="161"/>
+	</outline>
+	<anchor name="top" x="323" y="921"/>
+	<anchor name="topleft" x="-54" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

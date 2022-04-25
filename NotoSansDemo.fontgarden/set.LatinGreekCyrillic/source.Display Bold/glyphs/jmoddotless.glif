@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jmoddotless" format="2">
+	<advance width="205"/>
+	<outline>
+		<component base="jdotless" xScale="0.65" yScale="0.6" yOffset="287"/>
+	</outline>
+	<anchor name="bottom" x="37.7" y="143"/>
+	<anchor name="top" x="102.05" y="618.8"/>
+</glyph>

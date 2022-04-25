@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve" format="2">
+	<unicode hex="011F"/>
+	<advance width="579"/>
+	<outline>
+		<component base="g"/>
+		<component base="brevecomb" xOffset="280"/>
+	</outline>
+	<anchor name="bottom" x="280" y="-240"/>
+	<anchor name="top" x="280" y="740"/>
+	<anchor name="topright" x="524" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="istrokedotless" format="2">
+	<advance width="287"/>
+	<outline>
+		<contour>
+			<point x="-7" y="230" type="line"/>
+			<point x="283" y="230" type="line"/>
+			<point x="305" y="327" type="line"/>
+			<point x="15" y="327" type="line"/>
+		</contour>
+		<component base="idotless"/>
+	</outline>
+	<anchor name="bottom" x="89" y="0"/>
+	<anchor name="top" x="205" y="546"/>
+</glyph>

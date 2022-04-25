@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhook" format="2">
+	<unicode hex="0224"/>
+	<advance width="591"/>
+	<outline>
+		<component base="Z"/>
+		<component base="cyrillicbighookUC" xOffset="260"/>
+	</outline>
+	<anchor name="bottom" x="302" y="-273"/>
+	<anchor name="top" x="306" y="714"/>
+	<anchor name="topright" x="572" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

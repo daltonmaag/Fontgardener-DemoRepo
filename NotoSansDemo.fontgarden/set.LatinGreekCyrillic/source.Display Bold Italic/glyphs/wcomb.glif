@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcomb" format="2">
+	<unicode hex="1DF1"/>
+	<outline>
+		<component base="w" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="59" y="553"/>
+	<anchor name="bottom" x="151.20000000000002" y="0"/>
+	<anchor name="top" x="199.8" y="221.20000000000002"/>
+	<anchor name="topright" x="373.05" y="221.20000000000002"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>356</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

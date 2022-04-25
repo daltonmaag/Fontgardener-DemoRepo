@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oeturnedwithhorizontalstroke" format="2">
+	<unicode hex="AB42"/>
+	<advance width="894"/>
+	<outline>
+		<contour>
+			<point x="396" y="305" type="line"/>
+			<point x="396" y="239" type="line"/>
+			<point x="792" y="239" type="line"/>
+			<point x="792" y="305" type="line"/>
+		</contour>
+		<component base="oe" xScale="-1" yScale="-1" xOffset="894" yOffset="538"/>
+	</outline>
+	<anchor name="bottom" x="447" y="-7"/>
+	<anchor name="top" x="447" y="548"/>
+	<anchor name="topright" x="844" y="548"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

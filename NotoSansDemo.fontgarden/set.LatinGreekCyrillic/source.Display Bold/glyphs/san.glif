@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="san" format="2">
+	<unicode hex="03FB"/>
+	<advance width="844"/>
+	<outline>
+		<contour>
+			<point x="56" y="-240" type="line"/>
+			<point x="240" y="-240" type="line"/>
+			<point x="240" y="307" type="line"/>
+			<point x="240" y="348"/>
+			<point x="240" y="384"/>
+			<point x="237" y="429" type="curve"/>
+			<point x="360" y="190" type="line"/>
+			<point x="488" y="190" type="line"/>
+			<point x="607" y="428" type="line"/>
+			<point x="606" y="390"/>
+			<point x="604" y="360"/>
+			<point x="604" y="323" type="curve"/>
+			<point x="604" y="0" type="line"/>
+			<point x="788" y="0" type="line"/>
+			<point x="788" y="552" type="line"/>
+			<point x="497" y="552" type="line"/>
+			<point x="424" y="375" type="line"/>
+			<point x="346" y="552" type="line"/>
+			<point x="56" y="552" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>=m</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>q</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

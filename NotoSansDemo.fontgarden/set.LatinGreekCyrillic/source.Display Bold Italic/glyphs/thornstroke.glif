@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thornstroke" format="2">
+	<unicode hex="A765"/>
+	<advance width="579"/>
+	<outline>
+		<contour>
+			<point x="45" y="439" type="line"/>
+			<point x="489" y="652" type="line"/>
+			<point x="513" y="769" type="line"/>
+			<point x="70" y="555" type="line"/>
+		</contour>
+		<component base="thorn"/>
+	</outline>
+	<anchor name="bottom" x="183" y="-240"/>
+	<anchor name="top" x="396" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>thorn</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>thorn</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

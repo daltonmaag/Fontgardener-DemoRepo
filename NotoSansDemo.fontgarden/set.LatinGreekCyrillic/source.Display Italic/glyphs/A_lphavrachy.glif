@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphavrachy" format="2">
+	<unicode hex="1FB8"/>
+	<advance width="539"/>
+	<outline>
+		<component base="Abreve"/>
+	</outline>
+	<anchor name="bottom" x="215" y="0"/>
+	<anchor name="top" x="390" y="918"/>
+	<anchor name="topright" x="618" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Abreve</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=A</string>
+		</dict>
+	</lib>
+</glyph>

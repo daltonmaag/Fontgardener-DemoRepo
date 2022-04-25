@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis-cy" format="2">
+	<unicode hex="04F0"/>
+	<advance width="573"/>
+	<outline>
+		<component base="U-cy"/>
+		<component base="dieresis" xOffset="41" yOffset="168"/>
+	</outline>
+	<anchor name="bottom" x="241" y="0"/>
+	<anchor name="top" x="437" y="920"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

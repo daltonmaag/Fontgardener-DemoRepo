@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ot-cy" format="2">
+	<unicode hex="047F"/>
+	<advance width="749"/>
+	<outline>
+		<component base="omega-cy"/>
+		<component base="cyrillic_otmark" xOffset="99" yOffset="1"/>
+	</outline>
+	<anchor name="bottom" x="375" y="0"/>
+	<anchor name="top" x="375" y="536"/>
+</glyph>

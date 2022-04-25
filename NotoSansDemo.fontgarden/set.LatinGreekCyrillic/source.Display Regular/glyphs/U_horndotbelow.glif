@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorndotbelow" format="2">
+	<unicode hex="1EF0"/>
+	<advance width="740"/>
+	<outline>
+		<component base="Uhorn"/>
+		<component base="dotbelowcomb" xOffset="629"/>
+	</outline>
+	<anchor name="bottom" x="390" y="-176"/>
+	<anchor name="top" x="390" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

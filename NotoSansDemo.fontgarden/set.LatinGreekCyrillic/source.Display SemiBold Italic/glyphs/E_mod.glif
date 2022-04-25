@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emod" format="2">
+	<unicode hex="1D31"/>
+	<advance width="337"/>
+	<outline>
+		<component base="E" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="172" y="287"/>
+	<anchor name="top" x="263" y="715"/>
+	<anchor name="topright" x="387.40000000000003" y="428.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

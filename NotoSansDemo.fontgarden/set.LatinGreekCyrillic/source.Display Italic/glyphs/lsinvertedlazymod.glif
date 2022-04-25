@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lsinvertedlazymod" format="2">
+	<unicode hex="AB5D"/>
+	<advance width="248"/>
+	<outline>
+		<component base="lsinvertedlazy" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="84.5" y="0"/>
+	<anchor name="center" x="121.55" y="160.79999999999998"/>
+	<anchor name="top" x="189.8" y="456"/>
+	<anchor name="topright" x="257.40000000000003" y="456"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

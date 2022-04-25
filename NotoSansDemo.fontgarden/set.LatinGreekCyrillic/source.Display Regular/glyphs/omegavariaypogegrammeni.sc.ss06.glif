@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegavariaypogegrammeni.sc.ss06" format="2">
+	<advance width="638"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="varia.sc" xOffset="150" yOffset="36"/>
+		<component base="ypogegrammeni" xOffset="202"/>
+	</outline>
+	<anchor name="bottom" x="318" y="0"/>
+	<anchor name="top" x="318" y="572"/>
+</glyph>

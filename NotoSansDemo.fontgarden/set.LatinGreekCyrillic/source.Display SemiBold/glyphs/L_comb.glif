@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcomb" format="2">
+	<unicode hex="1DDE"/>
+	<outline>
+		<component base="Lsmall" xScale="0.45" yScale="0.4" xOffset="-93" yOffset="620"/>
+	</outline>
+	<anchor name="_top" x="0" y="546"/>
+	<anchor name="bottom" x="13.200000000000003" y="620"/>
+	<anchor name="top" x="-27.299999999999997" y="838.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

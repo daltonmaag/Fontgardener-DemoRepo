@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaoxiaypogegrammeni.sc.ad.ss06" format="2">
+	<advance width="902"/>
+	<outline>
+		<component base="omega.sc"/>
+		<component base="oxia.sc" xOffset="225" yOffset="35"/>
+		<component base="iota.sc" xOffset="631"/>
+	</outline>
+	<anchor name="bottom_1" x="270" y="0"/>
+	<anchor name="bottom_2" x="709" y="0"/>
+	<anchor name="top_1" x="343" y="571"/>
+	<anchor name="top_2" x="831" y="571"/>
+	<anchor name="topright" x="948" y="571"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>omega.sc</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>oxia.sc</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>iota.sc</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

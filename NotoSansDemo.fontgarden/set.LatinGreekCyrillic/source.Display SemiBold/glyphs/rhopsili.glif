@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhopsili" format="2">
+	<unicode hex="1FE4"/>
+	<advance width="596"/>
+	<outline>
+		<component base="rho"/>
+		<component base="psili" xOffset="204"/>
+	</outline>
+	<anchor name="bottom" x="313" y="-240"/>
+	<anchor name="top" x="313" y="546"/>
+</glyph>

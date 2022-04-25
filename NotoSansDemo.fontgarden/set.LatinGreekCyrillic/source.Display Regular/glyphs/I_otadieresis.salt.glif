@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis.salt" format="2">
+	<advance width="272"/>
+	<outline>
+		<component base="Idieresis.salt"/>
+	</outline>
+	<anchor name="bottom" x="137" y="0"/>
+	<anchor name="top" x="137" y="903"/>
+	<anchor name="topright" x="252" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

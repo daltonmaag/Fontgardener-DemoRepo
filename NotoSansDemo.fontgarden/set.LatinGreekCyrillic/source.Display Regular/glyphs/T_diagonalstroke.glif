@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdiagonalstroke" format="2">
+	<unicode hex="023E"/>
+	<advance width="556"/>
+	<outline>
+		<contour>
+			<point x="520" y="760" type="line"/>
+			<point x="450" y="760" type="line"/>
+			<point x="62" y="-75" type="line"/>
+			<point x="132" y="-75" type="line"/>
+		</contour>
+		<component base="T"/>
+	</outline>
+	<anchor name="bottom" x="262" y="-75"/>
+	<anchor name="top" x="262" y="760"/>
+	<anchor name="center" x="262" y="357"/>
+	<anchor name="topright" x="505" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

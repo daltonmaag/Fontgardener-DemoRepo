@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucomb-cy" format="2">
+	<unicode hex="A677"/>
+	<outline>
+		<component base="u-cy" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="57" y="546"/>
+	<anchor name="top" x="140" y="938"/>
+	<anchor name="bottom" x="0.9" y="-96"/>
+	<anchor name="topright" x="240.75" y="218.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>224</integer>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

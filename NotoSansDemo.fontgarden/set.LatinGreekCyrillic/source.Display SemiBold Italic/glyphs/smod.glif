@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="smod" format="2">
+	<unicode hex="02E2"/>
+	<advance width="296"/>
+	<outline>
+		<component base="s" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="110.5" y="0"/>
+	<anchor name="top" x="185.9" y="327.59999999999997"/>
+	<anchor name="topright" x="307.45" y="327.59999999999997"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

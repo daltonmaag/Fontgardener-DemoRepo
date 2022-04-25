@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wmod" format="2">
+	<unicode hex="1D42"/>
+	<advance width="584"/>
+	<outline>
+		<component base="W" xScale="0.65" yScale="0.6"/>
+	</outline>
+	<anchor name="bottom" x="294" y="287"/>
+	<anchor name="top" x="385" y="715"/>
+	<anchor name="topright" x="633.1" y="428.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

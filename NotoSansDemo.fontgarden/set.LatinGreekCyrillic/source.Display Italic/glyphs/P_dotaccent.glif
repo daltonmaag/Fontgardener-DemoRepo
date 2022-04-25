@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pdotaccent" format="2">
+	<unicode hex="1E56"/>
+	<advance width="542"/>
+	<outline>
+		<component base="P"/>
+		<component base="dotaccent" xOffset="218" yOffset="178"/>
+	</outline>
+	<anchor name="bottom" x="217" y="0"/>
+	<anchor name="top" x="406" y="914"/>
+	<anchor name="topright" x="621" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>P</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi-cy" format="2">
+	<unicode hex="0471"/>
+	<advance width="721"/>
+	<outline>
+		<component base="psi"/>
+	</outline>
+	<anchor name="bottom" x="381" y="-240"/>
+	<anchor name="top" x="381" y="759"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

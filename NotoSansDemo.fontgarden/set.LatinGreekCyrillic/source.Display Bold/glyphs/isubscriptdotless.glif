@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isubscriptdotless" format="2">
+	<advance width="205"/>
+	<outline>
+		<component base="idotless" xScale="0.65" yScale="0.6" yOffset="-96"/>
+	</outline>
+	<anchor name="bottom" x="100.75" y="-96"/>
+	<anchor name="top" x="102.7" y="235.8"/>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocomb-cy" format="2">
+	<unicode hex="2DEA"/>
+	<outline>
+		<component base="o-cy" xScale="0.45" yScale="0.4"/>
+	</outline>
+	<anchor name="_top" x="57" y="536"/>
+	<anchor name="top" x="121" y="837"/>
+	<anchor name="bottom" x="94.95" y="0"/>
+	<anchor name="center" x="120.60000000000001" y="107.2"/>
+	<anchor name="topright" x="257.85" y="214.4"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>241</integer>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

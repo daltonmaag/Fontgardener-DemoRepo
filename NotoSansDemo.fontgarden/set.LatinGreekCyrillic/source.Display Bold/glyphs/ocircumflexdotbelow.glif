@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexdotbelow" format="2">
+	<unicode hex="1ED9"/>
+	<advance width="608"/>
+	<outline>
+		<component base="o"/>
+		<component base="dotbelowcomb" xOffset="683"/>
+		<component base="circumflex" xOffset="48"/>
+	</outline>
+	<anchor name="bottom" x="315" y="-234"/>
+	<anchor name="top" x="305" y="766"/>
+	<anchor name="center" x="305" y="277"/>
+	<anchor name="topright" x="590" y="553"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

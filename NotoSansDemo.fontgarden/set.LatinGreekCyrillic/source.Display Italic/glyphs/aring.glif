@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="2">
+	<unicode hex="00E5"/>
+	<advance width="541"/>
+	<outline>
+		<component base="a"/>
+		<component base="ring" xOffset="110"/>
+	</outline>
+	<anchor name="bottom" x="206" y="0"/>
+	<anchor name="top" x="352" y="815"/>
+	<anchor name="topright" x="562" y="536"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

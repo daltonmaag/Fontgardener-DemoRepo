@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omultiocular-cy" format="2">
+	<unicode hex="A66E"/>
+	<advance width="881"/>
+	<outline>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="522" yOffset="124"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="30" yOffset="124"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="438" yOffset="410"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="276" yOffset="124"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="192" yOffset="410"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="358" yOffset="-162"/>
+		<component base="Omonocular-cy" xScale="0.444" yScale="0.444" xOffset="113" yOffset="-162"/>
+	</outline>
+	<anchor name="bottom_1" x="649.428" y="124"/>
+	<anchor name="bottom_2" x="157.428" y="124"/>
+	<anchor name="bottom_3" x="565.428" y="410"/>
+	<anchor name="bottom_4" x="403.428" y="124"/>
+	<anchor name="bottom_5" x="319.428" y="410"/>
+	<anchor name="bottom_6" x="485.428" y="-162"/>
+	<anchor name="bottom_7" x="240.428" y="-162"/>
+	<anchor name="center_1" x="683.172" y="282.50800000000004"/>
+	<anchor name="center_2" x="191.172" y="282.50800000000004"/>
+	<anchor name="center_3" x="599.172" y="568.508"/>
+	<anchor name="center_4" x="437.172" y="282.50800000000004"/>
+	<anchor name="center_5" x="353.172" y="568.508"/>
+	<anchor name="center_6" x="519.172" y="-3.4919999999999902"/>
+	<anchor name="center_7" x="274.172" y="-3.4919999999999902"/>
+	<anchor name="top_1" x="716.472" y="441.016"/>
+	<anchor name="top_2" x="224.472" y="441.016"/>
+	<anchor name="top_3" x="632.472" y="727.0160000000001"/>
+	<anchor name="top_4" x="470.472" y="441.016"/>
+	<anchor name="top_5" x="386.472" y="727.0160000000001"/>
+	<anchor name="top_6" x="552.472" y="155.01600000000002"/>
+	<anchor name="top_7" x="307.472" y="155.01600000000002"/>
+	<anchor name="topright_1" x="859.44" y="441.016"/>
+	<anchor name="topright_2" x="367.44" y="441.016"/>
+	<anchor name="topright_3" x="775.44" y="727.0160000000001"/>
+	<anchor name="topright_4" x="613.44" y="441.016"/>
+	<anchor name="topright_5" x="529.44" y="727.0160000000001"/>
+	<anchor name="topright_6" x="695.44" y="155.01600000000002"/>
+	<anchor name="topright_7" x="450.44" y="155.01600000000002"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>Omonocular-cy</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

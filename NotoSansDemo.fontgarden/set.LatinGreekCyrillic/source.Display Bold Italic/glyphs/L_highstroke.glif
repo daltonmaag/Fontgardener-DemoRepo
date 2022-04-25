@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lhighstroke" format="2">
+	<unicode hex="A748"/>
+	<advance width="503"/>
+	<outline>
+		<contour>
+			<point x="63" y="490" type="line"/>
+			<point x="391" y="490" type="line"/>
+			<point x="425" y="647" type="line"/>
+			<point x="97" y="647" type="line"/>
+		</contour>
+		<component base="L"/>
+	</outline>
+	<anchor name="bottom" x="203" y="0"/>
+	<anchor name="center" x="179" y="357"/>
+	<anchor name="top" x="256" y="714"/>
+	<anchor name="topright" x="456" y="714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>L</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>L</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>
