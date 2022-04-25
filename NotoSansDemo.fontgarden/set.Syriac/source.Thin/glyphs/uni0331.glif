@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0331" format="2">
+	<unicode hex="0331"/>
+	<outline>
+		<contour>
+			<point x="-100" y="-40" type="line"/>
+			<point x="101" y="-40" type="line"/>
+			<point x="101" y="-22" type="line"/>
+			<point x="-100" y="-22" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor12" x="0" y="-130"/>
+	<anchor name="_Anchor6" x="0" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018/09/11 18:35:11</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

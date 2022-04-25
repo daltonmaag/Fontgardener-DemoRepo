@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0320.SYRJ" format="2">
+	<outline>
+		<contour>
+			<point x="133" y="-80" type="line"/>
+			<point x="133" y="-20" type="line"/>
+			<point x="-133" y="-20" type="line"/>
+			<point x="-133" y="-80" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="Anchor129" x="0" y="-136"/>
+	<anchor name="_Anchor123" x="0" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018/09/11 18:35:11</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

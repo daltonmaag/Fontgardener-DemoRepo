@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SAMline" format="2">
+	<advance width="235"/>
+	<outline>
+		<contour>
+			<point x="0" y="865" type="line"/>
+			<point x="235" y="865" type="line"/>
+			<point x="235" y="900" type="line"/>
+			<point x="0" y="900" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022/02/17 13:52:33</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing Combining</string>
+		</dict>
+	</lib>
+</glyph>
